@@ -25,7 +25,7 @@ matteo@baccan.it – <https://www.baccan.it>
 
 ![bg left:20% 80%](assets/matteo%20baccan.jpg)
 
-# Chi sono?
+# Chi sono ?
 
 ## Matteo Baccan
 
