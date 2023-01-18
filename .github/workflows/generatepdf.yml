@@ -18,7 +18,7 @@ jobs:
       run: | 
         cd intro
         docker run --rm --init -v $PWD:/home/marp/app/ -e LANG="it_IT.UTF-8" -e MARP_USER="$(id -u):$(id -g)" marpteam/marp-cli intro.md --pdf --allow-local-files
-        cd intro2
+        cd ../intro2
         docker run --rm --init -v $PWD:/home/marp/app/ -e LANG="it_IT.UTF-8" -e MARP_USER="$(id -u):$(id -g)" marpteam/marp-cli intro2.md --pdf --allow-local-files
       
     - name: commit & push

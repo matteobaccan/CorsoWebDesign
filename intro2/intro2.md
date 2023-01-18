@@ -60,27 +60,30 @@ Il corso si propone l’obiettivo di fornire allo studente le conoscenze rispett
 
 Gli argomenti teorici trattati includono:
 
-**UX, UI**
-**AI**
-**SASS**
-
-Ad integrazione di questi argomenti verranno mostrate le moderne tecniche di miglioramento delle pubblicazioni web: ottimizzazioni immagini, interrogazioni servizi remoti, ...
+**UX, UI** : cosa sono, quali attività sono collegate, sbocchi lavorativi e strumenti
+**AI** : come le AI stanno cambiando il modo di lavorare
+**Javascript** : approfondimenti propedeutico all'utilizzo di librerie
+**Bootstrap5** : Approfondimento
+**SASS** : cosè e a cosa serve
+**JQuery** : utilizzo e librerie
+**Librerie Javascript** : arricchiamo le nostre interfacce
+**CMS** : introduzione e uso
 
 ---
 
 # Programma del corso
 
-Verranno acquisite le conoscenze per realizzare CSS dinamici, utilizzare Intelligenze Artificiali per migliorare il proprio lavoro, utilizzo di prodotti per l'analisi delle pagine prodotte.
+Questo corso estende ed approfondisce quanto fatto nella corso base di WebDesign, dando gli strumenti per potersi muovere nel mondo della grafica web ed aggiungendo una serie di competenze ricercate sul mercato.
 
 Il percorso formativo insegnerà, oltre che la tecnica di base, alcuni strumenti utili a mettere in pratica la parte teorica, approfondendoli con specifiche sessioni in laboratorio.
 
-Verranno date le nozioni per poter produrre da zero un sito web dinamico.
+Verranno date le nozioni per poter estendere i siti web dinamici realizzati nel corso base di WebDesign.
 
 ---
 
 # Sito di riferimento
 
-Il sito web <https://www.w3schools.com> fornisce tutti i tutorial che verranno usati per imparare la parte teorica legata a HTML, CSS e Javascript
+Il sito web <https://www.w3schools.com> fornisce tutti i tutorial che verranno usati per imparare la parte teorica legata a SASS.
 
 Il sito è disponibile anche in modalità offline a questo indirizzo <https://github.com/Ja7ad/W3Schools>
 
