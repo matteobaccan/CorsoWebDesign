@@ -27,8 +27,6 @@ matteo@baccan.it – <https://www.baccan.it>
 
 # Chi sono ?
 
-## Matteo Baccan
-
 Divulgatore informatico, giornalista per riviste tecniche nazionali oltre 700 articoli per: Dev, Login, Computer Programming, Mokabyte. Relatore tecnico ad eventi di programmazione: Borland Forum 2000, Webbit 2004, JIP day 2005, Javaday (2006,2007,2010) PHPDay (2008, 2010), CONFSL 2010, WebTech 2010, Codemotin (2011,2012,2013,2014). Autore di Corso di C# ISBN 8881500167. Autore di JobCrawler e HTML2POP3 (Oltre 900.000 download su SourceForge)
 
 ---
@@ -68,7 +66,7 @@ Ad integrazione di questi argomenti verranno mostrate le moderne tecniche di pub
 
 ---
 
-# Il programma
+# Programma del corso
 
 Verranno acquisite le conoscenze per realizzare pagine web, per cambiarne l’aspetto tramite CSS e renderle dinamiche tramite JavaScript.
 
@@ -100,7 +98,7 @@ Tutte le slide del corso sono disponibili a questo indirizzo in formato sorgente
 _Ci aiuterà a provare tutto quello che verrà spiegato nel corso_
 
 <https://github.com> - The complete developer platform to build, scale, and deliver secure software.
-_Ci aiuterà a salvare, verificare, versionare il nostro progetto_
+_Ci aiuterà a salvare, verificare, mantenere traccia delle modifiche del nostro progetto_
 
 <https://netlify.app> - The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web
 _Ci servirà per pubblicare i nostri lavori online_

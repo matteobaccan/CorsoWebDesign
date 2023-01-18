@@ -17,7 +17,9 @@ jobs:
     - name: generate pdf
       run: | 
         cd intro
-        docker run --rm --init -v $PWD:/home/marp/app/ -e LANG="ja_JP.UTF-8" -e MARP_USER="$(id -u):$(id -g)" marpteam/marp-cli intro.md --pdf --allow-local-files
+        docker run --rm --init -v $PWD:/home/marp/app/ -e LANG="it_IT.UTF-8" -e MARP_USER="$(id -u):$(id -g)" marpteam/marp-cli intro.md --pdf --allow-local-files
+        cd intro2
+        docker run --rm --init -v $PWD:/home/marp/app/ -e LANG="it_IT.UTF-8" -e MARP_USER="$(id -u):$(id -g)" marpteam/marp-cli intro2.md --pdf --allow-local-files
       
     - name: commit & push
       run: |
@@ -25,6 +27,6 @@ jobs:
         git config user.name github-actions
         git config user.email github-actions@github.com
         git add .
-        git commit -m "update demo files"
+        git commit -m "update slide files"
         git push
         

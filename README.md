@@ -12,3 +12,4 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 - [Corso CSS](https://github.com/matteobaccan/CorsoCSS)
 - [Corso Javascript](https://github.com/matteobaccan/CorsoJavascript)
 - [Corso UX](https://github.com/matteobaccan/CorsoUX)
+- [Corso AI](https://github.com/matteobaccan/CorsoAI)
