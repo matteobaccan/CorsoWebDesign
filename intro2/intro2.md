@@ -64,10 +64,10 @@ Gli argomenti teorici trattati includono:
 **AI** : come le AI stanno cambiando il modo di lavorare
 **Javascript** : approfondimenti propedeutico all'utilizzo di librerie
 **Bootstrap5** : Approfondimento
-**SASS** : cosè e a cosa serve
+**SASS** : cos'è e a cosa serve
 **JQuery** : utilizzo e librerie
 **Librerie Javascript** : arricchiamo le nostre interfacce
-**CMS** : introduzione e uso
+**Strumenti** : introduzione a strumenti di supporto per il web design
 
 ---
 
@@ -83,7 +83,7 @@ Verranno date le nozioni per poter estendere i siti web dinamici realizzati nel 
 
 # Sito di riferimento
 
-Il sito web <https://www.w3schools.com> fornisce tutti i tutorial che verranno usati per imparare la parte teorica legata a SASS.
+Il sito web <https://www.w3schools.com> fornisce alcuni tutorial che verranno usati per imparare la parte teorica legata a SASS.
 
 Il sito è disponibile anche in modalità offline a questo indirizzo <https://github.com/Ja7ad/W3Schools>
 
@@ -93,7 +93,7 @@ Il sito è disponibile anche in modalità offline a questo indirizzo <https://gi
 
 Tutte le slide del corso sono disponibili a questo indirizzo in formato sorgente
 
-<https://github.com/matteobaccan/WebDesign>
+<https://github.com/matteobaccan/CorsoWebDesign>
 
 ---
 
