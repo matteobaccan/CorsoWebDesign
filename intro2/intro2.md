@@ -93,6 +93,31 @@ Verranno date le nozioni per poter estendere i siti web dinamici realizzati nel 
 
 ---
 
+## Traccia del progetto proposto
+
+All'interno del corso di WebDesign2 ognuno andrà a realizzare un e-commerce con le seguenti caratteristiche
+
+### Pagine principali
+
+- Home page con slideshow di una decina di prodotti, al cui click si andrà alla scheda prodotto (va bene creare 1 sola scheda per tutti i prodotti)
+
+- La scheda prodotto con: foto del prodotto, descrizione, taglia, colore, numero dei prodotti da aggiungere a carrello e pulsante di inserimento
+
+- Carrello: elenco prodotto, con foto, nome, descrizione, possibilità di cambiarne le quantità
+
+---
+
+#### Pagine di supporto
+
+- Pagina di checkout: vedo solo i prodotti senza modifica: scelgo il tipo di pagamento (carta di credito, paypal) e indirizzo di spedizione
+- Pagina di privacy policy
+- Pagina di "chi siamo"
+- Pagina di dove siamo
+- Pagina di login
+- Pagina di profilo cliente: dati cliente e lista ordini
+
+---
+
 ## Sito di riferimento
 
 Il sito web <https://www.w3schools.com> fornisce alcuni tutorial che verranno usati per imparare la parte teorica legata a SASS.
