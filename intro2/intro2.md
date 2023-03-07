@@ -5,13 +5,25 @@ paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
+footer: https://github.com/matteobaccan/CorsoAI
 ---
+
+# Corso WebDesign 2
+
+Approfondimenti tematici rispetto al primo corso di WebDesign
+
+![bg right](assets/matteo-baccan.jpg)
+
 <!-- _paginate: false -->
-![bg](assets/banner.png)
+<!-- _footer: "" -->
+<!-- style: "
+img[alt~='center'] {
+  display: block;
+  margin: 0 auto;
+}
+" -->
 
 ---
-
-# Matteo Baccan
 
 ## Corso di Web Design 2
 
@@ -25,15 +37,15 @@ matteo@baccan.it – <https://www.baccan.it>
 
 ---
 
-![bg left:20% 80%](assets/matteo%20baccan.jpg)
+![bg left:20% 80%](assets/matteo-baccan.jpg)
 
-# Chi sono ?
+## Chi sono ?
 
 Divulgatore informatico, giornalista per riviste tecniche nazionali oltre 700 articoli per: Dev, Login, Computer Programming, Mokabyte. Relatore tecnico ad eventi di programmazione: Borland Forum 2000, Webbit 2004, JIP day 2005, Javaday (2006,2007,2010) PHPDay (2008, 2010), CONFSL 2010, WebTech 2010, Codemotin (2011,2012,2013,2014). Autore di Corso di C# ISBN 8881500167. Autore di JobCrawler e HTML2POP3 (Oltre 900.000 download su SourceForge)
 
 ---
 
-# Il mio motto
+## Il mio motto
 
 ## Gualtiero Marchesi
 
@@ -54,7 +66,7 @@ La perfezione si raggiunge, non quando non c’è più niente da aggiungere, ma 
 
 ---
 
-# Il programma
+## Il programma
 
 Il corso si propone l’obiettivo di fornire allo studente le conoscenze rispetto agli strumenti di supporto allo sviluppo web.
 
@@ -71,7 +83,7 @@ Gli argomenti teorici trattati includono:
 
 ---
 
-# Programma del corso
+## Programma del corso
 
 Questo corso estende ed approfondisce quanto fatto nella corso base di WebDesign, dando gli strumenti per potersi muovere nel mondo della grafica web ed aggiungendo una serie di competenze ricercate sul mercato.
 
@@ -81,7 +93,7 @@ Verranno date le nozioni per poter estendere i siti web dinamici realizzati nel 
 
 ---
 
-# Sito di riferimento
+## Sito di riferimento
 
 Il sito web <https://www.w3schools.com> fornisce alcuni tutorial che verranno usati per imparare la parte teorica legata a SASS.
 
@@ -89,7 +101,7 @@ Il sito è disponibile anche in modalità offline a questo indirizzo <https://gi
 
 ---
 
-# Slide
+## Slide
 
 Tutte le slide del corso sono disponibili a questo indirizzo in formato sorgente
 
@@ -97,7 +109,7 @@ Tutte le slide del corso sono disponibili a questo indirizzo in formato sorgente
 
 ---
 
-# Strumenti
+## Strumenti
 
 <https://codepen.io> -  CodePen is a social development environment.
 _Ci aiuterà a provare tutto quello che verrà spiegato nel corso_
