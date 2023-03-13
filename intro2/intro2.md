@@ -5,7 +5,7 @@ paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
-footer: https://github.com/matteobaccan/CorsoAI
+footer: https://github.com/matteobaccan/CorsoWebDesign
 ---
 
 # Corso WebDesign 2
@@ -41,7 +41,7 @@ matteo@baccan.it – <https://www.baccan.it>
 
 ## Chi sono ?
 
-Divulgatore informatico, giornalista per riviste tecniche nazionali oltre 700 articoli per: Dev, Login, Computer Programming, Mokabyte. Relatore tecnico ad eventi di programmazione: Borland Forum 2000, Webbit 2004, JIP day 2005, Javaday (2006,2007,2010) PHPDay (2008, 2010), CONFSL 2010, WebTech 2010, Codemotin (2011,2012,2013,2014). Autore di Corso di C# ISBN 8881500167. Autore di JobCrawler e HTML2POP3 (Oltre 900.000 download su SourceForge)
+Divulgatore informatico, giornalista per riviste tecniche nazionali oltre 700 articoli per: Dev, Login, Computer Programming, Mokabyte. Relatore tecnico ad eventi di programmazione: Borland Forum 2000, Webbit 2004, JIP day 2005, Javaday (2006,2007,2010) PHPDay (2008, 2010), CONFSL 2010, WebTech 2010, Codemotion (2011,2012,2013,2014). Autore di Corso di C# ISBN 8881500167. Autore di JobCrawler e HTML2POP3 (Oltre 900.000 download su SourceForge)
 
 ---
 
@@ -93,32 +93,7 @@ Verranno date le nozioni per poter estendere i siti web dinamici realizzati nel 
 
 ---
 
-## Traccia del progetto proposto
-
-All'interno del corso di WebDesign2 ognuno andrà a realizzare un e-commerce con le seguenti caratteristiche
-
-### Pagine principali
-
-- Home page con slideshow di una decina di prodotti, al cui click si andrà alla scheda prodotto (va bene creare 1 sola scheda per tutti i prodotti)
-
-- La scheda prodotto con: foto del prodotto, descrizione, taglia, colore, numero dei prodotti da aggiungere a carrello e pulsante di inserimento
-
-- Carrello: elenco prodotto, con foto, nome, descrizione, possibilità di cambiarne le quantità
-
----
-
-#### Pagine di supporto
-
-- Pagina di checkout: vedo solo i prodotti senza modifica: scelgo il tipo di pagamento (carta di credito, paypal) e indirizzo di spedizione
-- Pagina di privacy policy
-- Pagina di "chi siamo"
-- Pagina di dove siamo
-- Pagina di login
-- Pagina di profilo cliente: dati cliente e lista ordini
-
----
-
-## Sito di riferimento
+## Sito di riferimento per la parte teorica
 
 Il sito web <https://www.w3schools.com> fornisce alcuni tutorial che verranno usati per imparare la parte teorica legata a SASS.
 
@@ -126,7 +101,7 @@ Il sito è disponibile anche in modalità offline a questo indirizzo <https://gi
 
 ---
 
-## Slide
+## Slide della parte teorica
 
 Tutte le slide del corso sono disponibili a questo indirizzo in formato sorgente
 
@@ -134,7 +109,7 @@ Tutte le slide del corso sono disponibili a questo indirizzo in formato sorgente
 
 ---
 
-## Strumenti
+## Strumenti utilizzati durante il corso
 
 <https://codepen.io> -  CodePen is a social development environment.
 _Ci aiuterà a provare tutto quello che verrà spiegato nel corso_
@@ -144,3 +119,53 @@ _Ci aiuterà a salvare, verificare, mantenere traccia delle modifiche del nostro
 
 <https://netlify.app> - The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web
 _Ci servirà per pubblicare i nostri lavori online_
+
+---
+
+## Progetto da svolgere durante il corso
+
+All'interno del corso di WebDesign2 ognuno andrà a realizzare la grafica di un e-commerce con le seguenti caratteristiche
+
+### Pagine principali
+
+- Home page con slideshow di una decina di prodotti, al cui click si andrà alla scheda prodotto
+
+- La scheda prodotto con: foto del prodotto, descrizione, taglia, colore, numero dei prodotti da aggiungere a carrello e pulsante di inserimento
+
+---
+
+### Pagine di supporto
+
+- Carrello: elenco prodotto, con foto, nome, descrizione, possibilità di cambiarne le quantità
+
+- Ricerca prodotti
+
+### Elementi comuni
+
+- Header
+
+- Footer
+
+- Logo, font e colori
+
+---
+
+## Esempi di e-commerce realizzati
+
+<https://portotheme.com/html/molla/>
+
+Homepage <https://portotheme.com/html/molla/index-6.html>
+Dettaglio prodotti <https://portotheme.com/html/molla/product.html>
+Carrello <https://portotheme.com/html/molla/cart.html>
+Ricerca prodotti <https://portotheme.com/html/molla/category.html>
+
+---
+
+## Materiale da portare all'esame
+
+Le slide di presentazione del vostro progetto, che trattino i seguenti argomenti
+
+- Descrizione del progetto
+- Strumenti utilizzati per lo sviluppo: siti web e automatism
+- Screenshot del progetto in modalità PC, Tablet e cellulare di tutte le pagine realizzate
+- Esito test GTMetrix e spiegazione miglioramenti effettuati per tutte le pagine realizzate
