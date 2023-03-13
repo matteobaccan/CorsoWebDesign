@@ -5,7 +5,9 @@ on:
     branches: [ main ]
     paths:
       - 'intro/*.*'
+      - 'intro/assets/*.*'
       - 'intro2/*.*'
+      - 'intro2/assets/*.*'
       - '.github/workflows/*.*'
 
 jobs:
