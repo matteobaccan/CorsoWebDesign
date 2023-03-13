@@ -168,4 +168,4 @@ Le slide di presentazione del vostro progetto, che trattino i seguenti argomenti
 - Descrizione del progetto
 - Strumenti utilizzati per lo sviluppo: siti web e automatism
 - Screenshot del progetto in modalità PC, Tablet e cellulare di tutte le pagine realizzate
-- Esito test GTMetrix e spiegazione miglioramenti effettuati per tutte le pagine realizzate
+- Esito test GTMetrix e spiegazione miglioramenti effettuati di tutte le pagine realizzate
