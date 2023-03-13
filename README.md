@@ -13,3 +13,5 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 - [Corso Javascript](https://github.com/matteobaccan/CorsoJavascript)
 - [Corso UX](https://github.com/matteobaccan/CorsoUX)
 - [Corso AI](https://github.com/matteobaccan/CorsoAI)
+
+[![Genera PDF](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml)
