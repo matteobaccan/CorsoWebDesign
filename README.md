@@ -14,4 +14,9 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 - [Corso UX](https://github.com/matteobaccan/CorsoUX)
 - [Corso AI](https://github.com/matteobaccan/CorsoAI)
 
+## Progetti di esempio del corso di WebDesign
+
+ - [Integrazione Github Netlify : progetto monopagina per WebDesign](https://github.com/matteobaccan/github-netlify-boilerplate)
+ - [Integrazione Github Netlify : progetto ecommerce per WebDesign2](https://github.com/matteobaccan/ProgettoEcommerce)
+
 [![Genera PDF](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml)
