@@ -23,5 +23,6 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
  ## Esercizi svolti
  
   - [WebDesign](https://github.com/matteobaccan/ACME-2022-2023-WebDesign)
+  - [WebDesign2](https://github.com/matteobaccan/ACME-2022-2023-WebDesign2)
 
 [![Genera PDF](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml)
