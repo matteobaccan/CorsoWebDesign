@@ -19,5 +19,9 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 
  - [Integrazione Github Netlify : progetto monopagina per WebDesign](https://github.com/matteobaccan/github-netlify-boilerplate)
  - [Integrazione Github Netlify : progetto ecommerce per WebDesign2](https://github.com/matteobaccan/ProgettoEcommerce)
+ 
+ ## Esercizi svolti
+ 
+  - [WebDesign](https://github.com/matteobaccan/ACME-2022-2023-WebDesign)
 
 [![Genera PDF](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml)
