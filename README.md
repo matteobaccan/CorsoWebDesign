@@ -12,7 +12,6 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 - [Corso CSS](https://github.com/matteobaccan/CorsoCSS)
 - [Corso Javascript](https://github.com/matteobaccan/CorsoJavascript)
 - [Corso AI](https://github.com/matteobaccan/CorsoAI)
-- [Corso jQuery](https://github.com/matteobaccan/CorsojQuery)
 
 ### Progetti di esempio del corso
 
@@ -26,6 +25,7 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 
 - [Corso UX](https://github.com/matteobaccan/CorsoUX)
 - [Corso Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE)
+- [Corso jQuery](https://github.com/matteobaccan/CorsojQuery)
 
 ### Progetti di esempio del corso
 
