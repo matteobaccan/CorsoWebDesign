@@ -8,7 +8,7 @@ on:
       - 'intro/assets/*.*'
       - 'intro2/*.*'
       - 'intro2/assets/*.*'
-      - '.github/workflows/*.*'
+      - '.github/workflows/generatepdf.yml'
 
 jobs:
   build:
