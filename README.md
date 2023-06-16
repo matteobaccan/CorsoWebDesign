@@ -6,6 +6,8 @@ Ho utilizzato queste slide sia per raccogliere le informazioni che ricevevo dura
 
 Il materiale arriva da internet, da portali di riferimento, da testi scritti da me o da presi da siti web specializzati: sempre citando la fonte, in modo sia possibile approfondire i singoli argomenti trattati.
 
+<hr>
+
 ## Corso di WebDesign
 
 - [Corso HTML](https://github.com/matteobaccan/CorsoHTML)
@@ -21,9 +23,12 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
  
 - [ACME-2022-2023-WebDesign](https://github.com/matteobaccan/ACME-2022-2023-WebDesign)
 
+<hr>
+
 ## Corso di WebDesign2
 
 - [Corso UX](https://github.com/matteobaccan/CorsoUX)
+- [Corso AI](https://github.com/matteobaccan/CorsoAI) 
 - [Corso Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE)
 - [Corso jQuery](https://github.com/matteobaccan/CorsojQuery)
 - [Corso SASS](https://github.com/matteobaccan/CorsoSASS)
