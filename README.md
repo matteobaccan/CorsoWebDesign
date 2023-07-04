@@ -10,6 +10,7 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 
 ## Corso di WebDesign
 
+- [Argomenti del corso e materiale da produrre per l'esame](https://github.com/matteobaccan/CorsoWebDesign/blob/main/intro/intro.pdf)
 - [Corso HTML](https://github.com/matteobaccan/CorsoHTML)
 - [Corso CSS](https://github.com/matteobaccan/CorsoCSS)
 - [Corso Javascript](https://github.com/matteobaccan/CorsoJavascript)
@@ -27,6 +28,7 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 
 ## Corso di WebDesign2
 
+- [Argomenti del corso e materiale da produrre per l'esame](https://github.com/matteobaccan/CorsoWebDesign/blob/main/intro2/intro2.pdf)
 - [Corso UX](https://github.com/matteobaccan/CorsoUX)
 - [Corso AI](https://github.com/matteobaccan/CorsoAI)
 - [Corso Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE)
