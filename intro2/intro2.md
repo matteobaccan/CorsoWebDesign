@@ -33,7 +33,7 @@ Lezione introduttiva del corso: conoscenza, obiettivi, primi argomenti.
 
 Parleremo di UX, UI, AI, prodotti, etc
 
-matteo@baccan.it – <https://www.baccan.it>
+<matteo@baccan.it> – <https://www.baccan.it>
 
 ---
 
@@ -165,7 +165,9 @@ Ricerca prodotti <https://portotheme.com/html/molla/category.html>
 
 Le slide di presentazione del vostro progetto, che trattino i seguenti argomenti
 
-- Descrizione del progetto
-- Strumenti utilizzati per lo sviluppo: siti web e automatism
+- Descrizione del progetto: cosa è, a cosa serve, come è stato realizzato
+- Strumenti utilizzati per lo sviluppo: siti web (Codepen, Codespace, etc), automatismi, AI, librerie javascript (Bootstrap, JQuery, etc)
 - Screenshot del progetto in modalità PC, Tablet e cellulare di tutte le pagine realizzate
-- Esito test GTMetrix e spiegazione miglioramenti effettuati di tutte le pagine realizzate
+- Esito test GTMetrix <https://gtmetrix.com/> e spiegazione miglioramenti effettuati di tutte le pagine realizzate
+
+Il materiale realizzato: slide e sito, andrà poi lasciato in formato digitale alla segreteria, che indicato qui <https://github.com/matteobaccan/CorsoWebDesign>

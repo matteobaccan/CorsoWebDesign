@@ -31,7 +31,7 @@ Introduzione agli strumenti di sviluppo web
 _Lezione introduttiva del corso: conoscenza, obiettivi, primi argomenti.
 Parleremo di HTML, CSS, Javascript e di tecniche di sviluppo web_
 
-matteo@baccan.it – <https://www.baccan.it>
+<matteo@baccan.it> – <https://www.baccan.it>
 
 ---
 
@@ -168,10 +168,12 @@ Dal repository <https://github.com/matteobaccan/github-netlify-boilerplate> è p
 
 Le slide di presentazione del vostro progetto, che trattino i seguenti argomenti
 
-- Descrizione del progetto
-- Strumenti utilizzati per lo sviluppo: siti web e automatism
+- Descrizione del progetto: cosa è, cosa fa, a cosa serve
+- Strumenti utilizzati per lo sviluppo: siti web (Codepen, Codespace, etc), automatismi, AI, librerie javascript (Bootstrap, JQuery, etc)
 - Screenshot del progetto in modalità PC, Tablet e cellulare
-- Spiegazione file realizzati e loro contenuto
-- Esito validatore W3C e spiegazione miglioramenti effettuati
+- Spiegazione file realizzati e loro contenuto: index.html, style.css, script.js, etc
+- Schermata con esito del validatore W3C <https://validator.w3.org/> e spiegazione miglioramenti effettuati
 - Esito test SEO e spiegazione miglioramenti effettuati
-- Esito test GTMetrix e spiegazione miglioramenti effettuati
+- Esito test GTMetrix <https://gtmetrix.com/> e spiegazione miglioramenti effettuati
+
+Il materiale realizzato: slide e sito, andrà poi lasciato in formato digitale alla segreteria, che indicato qui <https://github.com/matteobaccan/CorsoWebDesign>
