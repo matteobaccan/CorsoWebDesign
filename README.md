@@ -56,7 +56,7 @@ Durante l'anno, tutti i nostri progetti sono stati messi su progetti GitHub. Que
 Per questa ragione il modo migliore per consegnare il materiale in segreteria è il seguente:
 
 - Stampare la presentazione che porterete all'esame.
-- Salvare su un CD, sia il PDF della presentazione che lo ZIP del progetto.
+- Salvare su un CD/Pennetta USB, sia il PDF della presentazione che lo ZIP del progetto.
 
 Per ottenere lo ZIP del progetto potete fare riferimento a GitHub:
 
@@ -78,4 +78,4 @@ Tutti i lavori depositati devono contenere i dati minimi per l'identificazione, 
 - Docente e insegnamento
 - Numero progetto/esercitazione e breve descrizione
 
-Ricordate quindi di indicare queste informazioni, arricchendo il README.md del progetto e riportando i dati nella cover del CD.
+Ricordate quindi di indicare queste informazioni, arricchendo il README.md del progetto e riportando i dati nella cover del CD/Pennetta USB.
