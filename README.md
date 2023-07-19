@@ -47,7 +47,7 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 
 <hr>
 
-## Cosa consegnare in segreteria
+## Cosa consegnare alla commissione
 
 La segreteria richiede una copia del vostro lavoro da poter conservare.
 
@@ -67,3 +67,15 @@ Per ottenere lo ZIP del progetto potete fare riferimento a GitHub:
 A titolo di esempio riporto la posizione del pulsante "Code" e del menù che appare dopo averlo premuto sul progetto CorsoWebDesign:
 
 ![Genera PDF](img/download.png)
+
+## Chiarimento da parte della segreteria
+
+Tutti i lavori depositati devono contenere i dati minimi per l'identificazione, quali:
+
+- Anno accademico
+- Nome dello studente
+- Numero di matricola
+- Docente e insegnamento
+- Numero progetto/esercitazione e breve descrizione
+
+Ricordate quindi di indicare queste informazioni, arricchendo il README.md del progetto e riportando i dati nella cover del CD.
