@@ -64,7 +64,7 @@ Per ottenere lo ZIP del progetto potete fare riferimento a GitHub:
 - Una volta premuto il pulsante apparirà un menù con la voce: "Download ZIP".
 - Cliccando su quella voce verrà scaricata una copia esatta del vostro lavoro.
 
-A titolo di esempio riporto la posizione del pulsante "Code" e del menù che appare dopo averlo premuto sul progetto CorsoWebDesign:
+A titolo di esempio riporto la posizione del pulsante "Code" e del menù che appare dopo averlo premuto sul progetto CorsoWebDesign, chiaramente ognuno dovrà farlo sul proprio progetto:
 
 ![Genera PDF](img/download.png)
 
