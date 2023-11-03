@@ -18,29 +18,36 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: generate pdf
+    - name: generate pdf Intro
       run: | 
+        cd intro
         cp intro.md intro-backup.md
         sed -i "s/%date%/$(date +'%Y-%m-%d')/g" intro.md
         sed -i "s/%time%/$(date +'%H:%M')/g" intro.md
         npx @marp-team/marp-cli@latest intro.md --pdf --allow-local-files
         rm intro.md
         mv intro-backup.md intro.md
-        cd ../intro2
+
+    - name: generate pdf Intro2
+      run: | 
+        cd intro2
         cp intro.md intro-backup.md
         sed -i "s/%date%/$(date +'%Y-%m-%d')/g" intro.md
         sed -i "s/%time%/$(date +'%H:%M')/g" intro.md
         npx @marp-team/marp-cli@latest intro.md --pdf --allow-local-files
         rm intro.md
         mv intro-backup.md intro.md
-        cd ../storia
+
+    - name: generate pdf storia
+      run: | 
+        cd storia
         cp storia.md storia-backup.md
         sed -i "s/%date%/$(date +'%Y-%m-%d')/g" storia.md
         sed -i "s/%time%/$(date +'%H:%M')/g" storia.md
         npx @marp-team/marp-cli@latest storia.md --pdf --allow-local-files
         rm storia.md
         mv storia-backup.md storia.md
-      
+                  
     - name: commit & push
       run: |
         git add -A
