@@ -5,7 +5,7 @@ paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
-footer: https://github.com/matteobaccan/CorsoWebDesign
+footer: https://github.com/matteobaccan/CorsoWebDesign versione del %date% %time%
 ---
 
 # Corso WebDesign 2

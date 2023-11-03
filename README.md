@@ -26,7 +26,7 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 
 <hr>
 
-## Corso di WebDesign2
+## Corso di WebDesign2 - Strumenti di sviluppo
 
 - [Argomenti del corso e materiale da produrre per l'esame](https://github.com/matteobaccan/CorsoWebDesign/blob/main/intro2/intro2.pdf)
 - [Corso UX](https://github.com/matteobaccan/CorsoUX)
