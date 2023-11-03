@@ -82,7 +82,7 @@ definiscono l'architettura Internet odierna
 ## 1980-1990: new protocols, a proliferation of networks
 
 1983: deployment of TCP/IP
-1982: smtp e-mail protocol defined 
+1982: smtp e-mail protocol defined
 1983: DNS defined for name-to-IP-address translation
 1985: ftp protocol defined
 1988: TCP congestion control
@@ -155,7 +155,7 @@ W3C - World Wide Web Consortium
 
 ---
 
-The following year, the W3C membership decided to stop evolving HTML and instead begin work on an XML-based equivalent, called XHTML. This effort started with a reformulation of HTML4 in XML, known as XHTML 1.0, which added no new features except the new serialization, and which was completed in 2000. 
+The following year, the W3C membership decided to stop evolving HTML and instead begin work on an XML-based equivalent, called XHTML. This effort started with a reformulation of HTML4 in XML, known as XHTML 1.0, which added no new features except the new serialization, and which was completed in 2000.
 
 After XHTML 1.0, the W3C's focus turned to
 making it easier for other working groups to extend XHTML, under the banner of XHTML Modularization. In parallel with this, the W3C also worked on a new language that was not compatible with the earlier HTML and XHTML languages, calling it XHTML2
@@ -215,7 +215,7 @@ problems, and adding new features as needed to evolve the platform.
 
 In 2019, the WHATWG and W3C signed an agreement to collaborate on a single version of HTML going forward: this document.
 
-Approfondimenti https://it.wikipedia.org/wiki/HTML
+Approfondimenti <https://it.wikipedia.org/wiki/HTML>
 
 ---
 
@@ -223,6 +223,7 @@ Approfondimenti https://it.wikipedia.org/wiki/HTML
 
 <https://aaronsim.notion.site/b4f5dd304d9a4683a70167b6cc4b94f1?v=6cc0bd8ce4f04f26ad088e44c910b167> : elenco di prodotti basati su AI
 <https://gaia.cs.umass.edu/kurose_ross/ppt.php> : “Computer Networking: a Top Down Approach”
+<https://html.spec.whatwg.org> : specifiche HTML
 
 L'immagine di sfondo è stata generata con <https://app.haikei.app>
 
