@@ -31,12 +31,12 @@ jobs:
     - name: generate pdf Intro2
       run: | 
         cd intro2
-        cp intro.md intro-backup.md
-        sed -i "s/%date%/$(date +'%Y-%m-%d')/g" intro.md
-        sed -i "s/%time%/$(date +'%H:%M')/g" intro.md
-        npx @marp-team/marp-cli@latest intro.md --pdf --allow-local-files
-        rm intro.md
-        mv intro-backup.md intro.md
+        cp intro2.md intro2-backup.md
+        sed -i "s/%date%/$(date +'%Y-%m-%d')/g" intro2.md
+        sed -i "s/%time%/$(date +'%H:%M')/g" intro2.md
+        npx @marp-team/marp-cli@latest intro2.md --pdf --allow-local-files
+        rm intro2.md
+        mv intro2-backup.md intro2.md
 
     - name: generate pdf storia
       run: | 
