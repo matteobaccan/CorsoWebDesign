@@ -45,13 +45,12 @@ Slide provenienti dalle slide del libro: “Computer Networking: a Top Down Appr
 
 ## 1961-1972: Principi iniziali di commutazione di pacchetto (packet-switching)
 
-1961: Kleinrock - la teoria delle code dimostra l'efficacia della commutazione di pacchetto
-1964: Baran - commutazione di pacchetto nelle reti militari
+1961: Leonard Kleinrock - la teoria delle code dimostra l'efficacia della commutazione di pacchetto
+1964: Paul Baran - commutazione di pacchetto nelle reti militari
 1967: ARPAnet concepito dall'Advanced Research Projects Agency (ARPA)
 1969: primo nodo ARPAnet operativo
 
-1972:
-Demo pubblica di ARPAnet
+1972: Demo pubblica di ARPAnet
 NCP (Network Control Protocol) primo protocollo host-host
 Primo programma di posta elettronica
 ARPAnet ha 15 nodi
@@ -61,7 +60,7 @@ ARPAnet ha 15 nodi
 ## 1972-1980: Interconnessione, nuove reti proprietarie
 
 1970: Rete satellitare ALOHAnet alle Hawaii
-1974: Cerf e Kahn - architettura per l'interconnessione di reti
+1974: Vinton Cerf e Robert Kahn - architettura per l'interconnessione di reti
 1976: Ethernet presso Xerox PARC
 fine anni '70: architetture proprietarie: DECnet, SNA, XNA
 1979: ARPAnet ha 200 nodi
@@ -79,15 +78,15 @@ definiscono l'architettura Internet odierna
 
 ---
 
-## 1980-1990: new protocols, a proliferation of networks
+## 1980-1990: nuovi protocolli, proliferazione di reti
 
-1983: deployment of TCP/IP
-1982: smtp e-mail protocol defined
-1983: DNS defined for name-to-IP-address translation
-1985: ftp protocol defined
-1988: TCP congestion control
-new national networks: CSnet, BITnet, NSFnet, Minitel
-100,000 hosts connected to confederation of networks
+1983: implementazione di TCP/IP
+1982: definito il protocollo di posta elettronica smtp
+1983: definito DNS per la traduzione dei nomi in indirizzi IP
+1985: definito il protocollo ftp
+1988: controllo della congestione TCP
+nuove reti nazionali: CSnet, BITnet, NSFnet, Minitel
+100.000 host connessi alla confederazione di reti
 
 ---
 
@@ -97,41 +96,41 @@ new national networks: CSnet, BITnet, NSFnet, Minitel
 
 ---
 
-## 1990, 2000s: commercialization, the Web, new applications
+## 1990, 2000: commercializzazione, il Web, nuove applicazioni
 
-early 1990s: ARPAnet decommissioned
-1991: NSF lifts restrictions on commercial use of NSFnet (decommissioned, 1995)
-early 1990s: Web
-hypertext [Bush 1945, Nelson 1960’s]
-HTML, HTTP: Berners-Lee
-1994: Mosaic, later Netscape
-late 1990s: commercialization of the Web
-late 1990s – 2000s:
-more killer apps: instant messaging, P2P file sharing
-network security to forefront
-est. 50 million host, 100 million+ users
-backbone links running at Gbps
-
----
-
-## 2005-present: scale, SDN, mobility, cloud
-
-aggressive deployment of broadband home access (10-100’s Mbps)
-2008: software-defined networking (SDN)
-increasing ubiquity of high-speed wireless access: 4G/5G, WiFi
-service providers (Google, FB, Microsoft) create their own networks
-bypass commercial Internet to connect “close” to end user, providing “instantaneous” access to social media, search, video content, …
-enterprises run their services in “cloud” (e.g., Amazon Web Services, Microsoft Azure)
-rise of smartphones: more mobile than fixed devices on Internet (2017)
-~18B devices attached to Internet (2017)
+primi anni '90: ARPAnet è stato dismesso
+1991: NSF rimuove le restrizioni sull'uso commerciale di NSFnet (dismesso nel 1995)
+primi anni '90: Web
+ipertesto [Bush 1945, Nelson anni '60]
+HTML, HTTP: Tim Berners-Lee
+1994: Mosaic, successivamente Netscape
+fine anni '90: commercializzazione del Web
+fine anni '90 - 2000:
+più applicazioni di successo: messaggistica istantanea, condivisione di file P2P
+sicurezza di rete al primo piano
+circa 50 milioni di host, oltre 100 milioni di utenti
+collegamenti di backbone che operano a Gbps (Gigabit al secondo)
 
 ---
 
--- DIBATTITO --
-## 2023 AI
+## 2005-2020: scala, SDN, mobilità, cloud
 
-A fine 2022, ma soprattutto a partire dal 2023, l'AI inizia ad entrare in modo importante all'interno della rete.
--- DIBATTITO --
+- Implementazione aggressiva dell'accesso domestico a banda larga (10-100 Mbps)
+- 2008: networking definito dal software (SDN)
+- Aumento dell'ubiquità dell'accesso wireless ad alta velocità: 4G/5G, WiFi
+- I fornitori di servizi (Google, FB, Microsoft) creano le proprie reti
+- Evitare l'utilizzo dell'Internet commerciale per connettersi "vicino" all'utente finale, fornendo accesso "istantaneo" ai social media, alla ricerca, ai contenuti video, ecc.
+- Le aziende eseguono i loro servizi nel "cloud" (ad esempio, Amazon Web Services, Microsoft Azure)
+- Aumento degli smartphone: dispositivi mobili più numerosi rispetto ai dispositivi fissi su Internet (2017)
+- Circa 18 miliardi di dispositivi collegati a Internet (2017)
+
+---
+
+## 2021 - 2023: AI
+
+L'Intelligenza artificiale (AI) e il Machine Learning (ML) hanno avuto un impatto significativo su Internet negli ultimi anni. Le tecnologie di intelligenza artificiale vengono utilizzate in una vasta gamma di applicazioni, come assistenti virtuali, riconoscimento vocale, raccomandazioni personalizzate e automazione dei processi aziendali.
+
+Sicurezza informatica avanzata: Con l'aumento delle minacce alla sicurezza informatica, la protezione dei dati e della privacy è diventata una priorità sempre maggiore. Sono state sviluppate nuove tecnologie e pratiche per migliorare la sicurezza su Internet, come crittografia avanzata, autenticazione a due fattori e soluzioni di sicurezza basate sull'intelligenza artificiale.
 
 ---
 
@@ -143,77 +142,88 @@ Informazioni provenienti dalle specifiche ufficiali
 
 ---
 
-For its first five years (1990-1995), HTML went through a number of revisions and experienced a number of extensions, primarily hosted first at CERN, and then at the IETF.
+## 1990-1995
 
-With the creation of the W3C, HTML's development changed venue again. A first abortive attempt at extending HTML in 1995 known as HTML 3.0 then made way to a more pragmatic approach known as HTML 3.2, which was completed in 1997. HTML4 quickly followed later that same year.
+Per i suoi primi cinque anni (1990-1995), HTML ha subito diverse revisioni ed estensioni, principalmente ospitate prima presso il CERN e poi presso l'IETF.
+
+Con la creazione del W3C, lo sviluppo di HTML è cambiato ancora una volta. Un primo tentativo fallito di estendere HTML nel 1995, noto come HTML 3.0, ha poi lasciato spazio a un approccio più pragmatico conosciuto come HTML 3.2, completato nel 1997. HTML4 è stato successivamente rilasciato nello stesso anno.
 
 HTML - HyperText Markup Language
-CERN - European Organization for Nuclear Research, Ginevra
+CERN - Organizzazione europea per la ricerca nucleare, Ginevra (Conseil Européen pour la Recherche Nucléaire)
 IETF - Internet Engineering Task Force (pubblica RFC)
-RFC - Request for Comments
+RFC - Richiesta di commenti
 W3C - World Wide Web Consortium
 
 ---
 
-The following year, the W3C membership decided to stop evolving HTML and instead begin work on an XML-based equivalent, called XHTML. This effort started with a reformulation of HTML4 in XML, known as XHTML 1.0, which added no new features except the new serialization, and which was completed in 2000.
+## 1996
 
-After XHTML 1.0, the W3C's focus turned to
-making it easier for other working groups to extend XHTML, under the banner of XHTML Modularization. In parallel with this, the W3C also worked on a new language that was not compatible with the earlier HTML and XHTML languages, calling it XHTML2
+L'anno successivo, i membri del W3C decisero di smettere di sviluppare HTML e iniziarono invece a lavorare su un equivalente basato su XML, chiamato XHTML. Questo sforzo iniziò con una riformulazione di HTML4 in XML, nota come XHTML 1.0, che non aggiunse nuove funzionalità tranne la nuova serializzazione e che fu completata nel 2000.
 
-XHTML - eXtensible HyperText Markup Language
-XML  - eXtensible Markup Language
+Dopo XHTML 1.0, l'attenzione del W3C si concentrò nel rendere più facile per altri gruppi di lavoro estendere XHTML, sotto il nome di Modularizzazione XHTML. Parallelamente a ciò, il W3C lavorò anche su un nuovo linguaggio che non era compatibile con i precedenti linguaggi HTML e XHTML, chiamandolo XHTML2.
 
----
-
-Around the time that HTML's evolution was stopped in 1998, parts of the API for HTML developed by browser vendors were specified and published under the name DOM Level 1 (in 1998) and DOM Level 2 Core and DOM Level 2 HTML (starting in 2000 and culminating in 2003). These efforts then petered out, with some DOM Level 3 specifications published in 2004
-but the working group being closed before all the Level 3 drafts were completed
-
-API -  Application programming interface
-DOM - Document Object Model
+XHTML - eXtensible HyperText Markup Language (Linguaggio di markup ipertestuale estensibile)
+XML - eXtensible Markup Language (Linguaggio di markup estensibile)
 
 ---
 
-In 2003, the publication of XForms, a technology which was positioned as the next generation of web forms, sparked a renewed interest in evolving HTML itself, rather than finding replacements for it. This interest was borne from the realization that XML's deployment as a web technology was limited to entirely new technologies (like RSS and later Atom), rather than as a replacement for existing deployed technologies (like HTML).
+## 1998
 
-XFORMS  - Extensible Markup Language Forms
-RSS - Really Simple Syndication
+Intorno al momento in cui l'evoluzione di HTML fu interrotta nel 1998, alcune parti dell'API per HTML sviluppate dai fornitori di browser furono specificate e pubblicate con il nome di DOM Level 1 (nel 1998) e DOM Level 2 Core e DOM Level 2 HTML (a partire dal 2000 e culminando nel 2003). Questi sforzi poi si affievolirono, con alcune specifiche del DOM Level 3 pubblicate nel 2004, ma il gruppo di lavoro venne chiuso prima che tutti i bozze del Level 3 fossero completate.
 
----
-
-A proof of concept to show that it was possible to extend HTML4's forms to provide many of the features that XForms 1.0 introduced, without requiring browsers to implement rendering engines that were incompatible with existing HTML web pages, was the first result of this renewed interest. At this early stage, while the draft was already publicly available, and input
-was already being solicited from all sources, the specification was only under Opera Software's copyright.
+API - Application programming interface (Interfaccia di programmazione delle applicazioni)
+DOM - Document Object Model (Modello ad oggetti del documento)
 
 ---
 
-The idea that HTML's evolution should be reopened was tested at a W3C workshop in 2004, where some of the principles that underlie the HTML5 work (described below), as well as the aforementioned early draft proposal covering just forms-related features, were presented to the W3C jointly by Mozilla and Opera. The proposal was rejected on the grounds that the proposal conflicted with the previously chosen direction for the web's evolution; the W3C staff and membership voted to continue developing XML-based replacements instead
+## 2003
+
+Nel 2003, la pubblicazione di XForms, una tecnologia che era posizionata come la prossima generazione di moduli web, ha suscitato un rinnovato interesse nell'evoluzione di HTML stesso, piuttosto che nella ricerca di sostituti. Questo interesse è nato dalla consapevolezza che l'implementazione di XML come tecnologia web era limitata a nuove tecnologie completamente separate (come RSS e successivamente Atom), anziché come sostituto delle tecnologie web esistenti (come HTML).
+
+XFORMS - Extensible Markup Language Forms (Moduli di linguaggio di markup estensibile)
+RSS - Really Simple Syndication (Sindacazione davvero semplice)
 
 ---
 
-don't break the web
+## HTML4
 
-Shortly thereafter, Apple, Mozilla, and Opera jointly announced their intent to continue working on the effort under the umbrella of a new venue called the WHATWG. A public mailing list was created, and the draft was moved to the WHATWG site. The copyright was subsequently amended to be jointly owned by all three vendors, and to allow reuse of the specification
+Una prova concettuale per dimostrare che era possibile estendere i moduli di HTML4 per fornire molte delle funzionalità introdotte da XForms 1.0, senza richiedere ai browser di implementare motori di rendering incompatibili con le pagine web HTML esistenti, è stato il primo risultato di questo rinnovato interesse. In questa fase iniziale, sebbene la bozza fosse già disponibile pubblicamente e si stesse già cercando input da tutte le fonti, la specifica era ancora sotto il copyright di Opera Software.
+
+---
+
+## 2004
+
+L'idea di riaprire l'evoluzione di HTML è stata testata in un workshop del W3C nel 2004, dove alcuni dei principi alla base del lavoro su HTML5 (descritti di seguito), così come la precedente proposta di bozza che copriva solo le funzionalità relative ai moduli, sono state presentate congiuntamente al W3C da Mozilla e Opera. La proposta è stata respinta perché in conflitto con la direzione precedentemente scelta per l'evoluzione del web; lo staff e i membri del W3C hanno votato per continuare a sviluppare sostituti basati su XML invece di HTML5.
+
+---
+
+## don't break the web
+
+Poco dopo, Apple, Mozilla e Opera annunciarono congiuntamente la loro intenzione di continuare a lavorare all'iniziativa sotto l'egida di un nuovo ente chiamato WHATWG. Fu creato un elenco di posta pubblica e la bozza fu spostata sul sito del WHATWG. Successivamente, il copyright fu modificato per essere di proprietà congiunta dei tre fornitori e consentire il riutilizzo della specifica.
 
 WHATWG - Web Hypertext Application Technology Working Group
 
 ---
 
-The WHATWG was based on several core principles, in particular that technologies need to be backwards compatible, that specifications and implementations need to match even if this means changing the specification rather than the implementations, and that specifications need
-to be detailed enough that implementations can achieve complete interoperability without reverse-engineering each other.
+## Retrocompatibilità
+
+Il WHATWG si basava su diversi principi fondamentali, in particolare che le tecnologie devono essere retrocompatibili, che le specifiche e le implementazioni devono corrispondere anche se ciò comporta modificare la specifica anziché le implementazioni e che le specifiche devono essere sufficientemente dettagliate affinché le implementazioni possano raggiungere una completa interoperabilità senza doversi analizzare reciprocamente.
+
+Quest'ultimo requisito richiedeva in particolare che il campo di applicazione della specifica HTML5 includesse ciò che era stato precedentemente specificato in tre documenti separati: HTML4, XHTML1 e DOM2 HTML. Significava anche includere significativamente più dettagli rispetto a quanto considerato normale in precedenza.
 
 ---
 
-The latter requirement in particular required that the scope of the HTML5 specification include what had previously been specified in three separate documents: HTML4, XHTML1, and DOM2 HTML. It also meant including significantly more detail than had previously been considered the norm
+## 2006
+
+Nel 2006, il W3C manifestò interesse a partecipare allo sviluppo di HTML5 e nel 2007 formò un gruppo di lavoro incaricato di collaborare con il WHATWG nello sviluppo della specifica HTML5. Apple, Mozilla e Opera permisero al W3C di pubblicare la specifica con il copyright del W3C, mantenendo però una versione con una licenza meno restrittiva sul sito del WHATWG.
 
 ---
 
-In 2006, the W3C indicated an interest to participate in the development of HTML5 after all, and in 2007 formed a working group chartered to work with the WHATWG on the development of the HTML5 specification. Apple, Mozilla, and Opera allowed the W3C to publish the specification under the W3C copyright, while keeping a version with the less restrictive license on the WHATWG site.
+## 2011
 
----
+Per diversi anni, i due gruppi hanno lavorato insieme. Nel 2011, tuttavia, i gruppi giunsero alla conclusione che avevano obiettivi diversi: il W3C voleva pubblicare una versione "finita" di "HTML5", mentre il WHATWG voleva continuare a lavorare su uno standard vivente per HTML, mantenendo continuamente la specifica anziché congelarla in uno stato con problemi noti e aggiungendo nuove funzionalità secondo necessità per far evolvere la piattaforma.
 
-For a number of years, both groups then worked together. In 2011, however, the groups came to the conclusion that they had different goals: the W3C wanted to publish a "finished" version of "HTML5", while the WHATWG wanted to continue working on a Living Standard for HTML, continuously maintaining the specification rather than freezing it in a state with known
-problems, and adding new features as needed to evolve the platform.
-
-In 2019, the WHATWG and W3C signed an agreement to collaborate on a single version of HTML going forward: this document.
+Nel 2019, il WHATWG e il W3C hanno firmato un accordo per collaborare su una singola versione di HTML in futuro: questo documento.
 
 Approfondimenti <https://it.wikipedia.org/wiki/HTML>
 
