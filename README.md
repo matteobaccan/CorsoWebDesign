@@ -1,20 +1,25 @@
 # WebDesign
 
-Questo progetto contiene un elenco di altri progetti dedicati a singoli argomenti.
+[![Genera PDF](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml)
 
-Ho utilizzato queste slide sia per raccogliere le informazioni che ricevevo durante la frequentazione di corsi, sia come materiale usato per l'insegnamento.
+Questo progetto contiene tutto il materiale che ho prodotto per i miei corsi di WebDesign.
 
-Il materiale arriva da internet, da portali di riferimento, da testi scritti da me o da presi da siti web specializzati: sempre citando la fonte, in modo sia possibile approfondire i singoli argomenti trattati.
+Ho poi usato una licenza che permette a chiunque di utilizzare il materiale per scopi didattici.
 
-<hr>
+All'interno di questo progetto sono presenti anche una serie di riferimenti ad altri progetti che mantengo nel tempo e fanno riferimento a singoli argomenti.
+
+Ho raccolto il materiale utilizzando fonti presenti in rete, portali di riferimento, testi scritti da me o da presi da siti web specializzati indicando sempre la fonte, in modo da approfondire i singoli argomenti trattati.
 
 ## Corso di WebDesign
 
-- [Argomenti del corso e materiale da produrre per l'esame](https://github.com/matteobaccan/CorsoWebDesign/blob/main/intro/intro.pdf)
+Di seguito sono riportati i link ai singoli argomenti trattati nel corso di WebDesign.
+
+- [Internet e HTML - da dove siamo partiti e dove siamo arrivati](https://github.com/matteobaccan/CorsoWebDesign/blob/main/storia/storia.pdf)
+- [WebDesign - l'evoluzione](https://github.com/matteobaccan/CorsoWebDesign/blob/main/webdesign/webdesign.pdf)
+- [Corso AI - come le AI hanno influenzato Internet](https://github.com/matteobaccan/CorsoAI)
 - [Corso HTML](https://github.com/matteobaccan/CorsoHTML)
 - [Corso CSS](https://github.com/matteobaccan/CorsoCSS)
 - [Corso Javascript](https://github.com/matteobaccan/CorsoJavascript)
-- [Corso AI](https://github.com/matteobaccan/CorsoAI)
 
 ### Progetti di esempio del corso di WebDesign
 
@@ -24,28 +29,14 @@ Il materiale arriva da internet, da portali di riferimento, da testi scritti da 
 
 - [ACME-2022-2023-WebDesign](https://github.com/matteobaccan/ACME-2022-2023-WebDesign)
 
-<hr>
+## Cosa consegnare all'esame
 
-## Corso di WebDesign2 - Strumenti di sviluppo
+- [Argomenti del corso e materiale da produrre per l'esame](https://github.com/matteobaccan/CorsoWebDesign/blob/main/intro/intro.pdf)
 
-- [Argomenti del corso e materiale da produrre per l'esame](https://github.com/matteobaccan/CorsoWebDesign/blob/main/intro2/intro2.pdf)
-- [Corso UX](https://github.com/matteobaccan/CorsoUX)
-- [Corso AI](https://github.com/matteobaccan/CorsoAI)
-- [Corso Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE)
-- [Corso jQuery](https://github.com/matteobaccan/CorsojQuery)
-- [Corso SASS](https://github.com/matteobaccan/CorsoSASS)
 
-### Progetti di esempio del corso di WebDesign2
+### Corso di WebDesign2 - Strumenti di sviluppo
 
-- [Integrazione Github Netlify : progetto e-commerce per WebDesign2](https://github.com/matteobaccan/ProgettoEcommerce)
-
-### Esercizi di WebDesign2
-
-- [ACME-2022-2023-WebDesign2](https://github.com/matteobaccan/ACME-2022-2023-WebDesign2)
-
-[![Genera PDF](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml)
-
-<hr>
+L'evoluzione di questo corso è contenuta nel progetto [Corso WebDesign2 - Strumenti di sviluppo](https://github.com/matteobaccan/CorsoWebDesign2)
 
 ## Cosa consegnare alla commissione
 
