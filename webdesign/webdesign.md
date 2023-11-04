@@ -10,7 +10,7 @@ footer: https://github.com/matteobaccan/CorsoWebDesign versione del %date% %time
 
 # Corso WebDesign
 
-Lo sviluppo web
+Come si è evoluto lo sviluppo web negli anni
 
 ![bg right](assets/matteo-baccan.jpg)
 
@@ -41,6 +41,18 @@ Nonostante questo continua ad essere necessario poter ancora sviluppare in modal
 
 ---
 
+## Evoluzione degli strumenti
+
+Il web è nato come strumento per la condivisione di documenti ipertestuali, nelle prime versioni di HTML troviamo solo elementi di testo, le immagini sono arrivate in un secondo momento.
+
+Questo tipo di approccio non era sufficiente per poter creare siti web complessi, per questo motivo col tempo sono nati sempre nuovi standard e prodotti software in grado di supportare questi standard.
+
+Vediamo ora alcuni passi importanti compiuti in questo senso.
+
+---
+
+## 1993-1999
+
 1993 Mosaic - <https://it.wikipedia.org/wiki/Mosaic>
 
 1994 Netscape: GIF animate, formattazione dei testi e tabelle
@@ -52,6 +64,8 @@ Nonostante questo continua ad essere necessario poter ancora sviluppare in modal
 1996 CSS1 si affianca allo stile inline
 
 ---
+
+## 2000-2009
 
 2000 Flash 5 e ActionScript 1.0
 
@@ -69,6 +83,8 @@ Nonostante questo continua ad essere necessario poter ancora sviluppare in modal
 
 ---
 
+## 2010-2015
+
 2010 Responsive design - <https://it.wikipedia.org/wiki/Design_responsivo>
 
 2011 Metro/Flat design
@@ -80,6 +96,8 @@ Nonostante questo continua ad essere necessario poter ancora sviluppare in modal
 2015 Esplosione di HTML e abbandono di Flash
 
 ---
+
+## 2016-2020
 
 2016 Minimal Design, basic element, mobile first e thumb friendly
 
@@ -96,25 +114,54 @@ Minimalismo: “Less is more”
 
 ---
 
+## Quanto è importante il design
+
+Non è facile rispondere a questa domanda, ma proviamo a capirlo parlando di Carolyn Davidson.
+
+![center width:700px](assets/Carolyn%20Davidson.jpg)
+
+---
+
 ## La storia del logo Nike
 
 Quanto è costato il logo NIKE? 35 dollari
 
 Phil Knight, il cofondatore di Nike insegnava contabilità alla Portland State University, sentì Carolyn Davidson dire che non poteva permettersi forniture per la pittura a olio e le chiese di lavorare per quella che allora era la Blue Ribbon Sports, Inc.
+
+![center width:400px](assets/blueribbonsport.png)
+
+---
+
+## Che lavoro faceva Carolyn Davidson?
+
 Davidson creava tabelle e grafici per i suoi incontri con i dirigenti delle calzature giapponesi per poi passare a disegnare poster, pubblicità e volantini per l'azienda.
+
 Nel 1971, Knight e il suo co-fondatore avevano bisogno di un logo per una nuova linea di scarpe da corsa. Hanno chiesto a Davidson di disegnare una striscia (termine industriale per il logo di una scarpa) che "avesse qualcosa a che fare con il movimento".
 
 ---
 
+## Il primo logo
+
 Davidson ha lavorato alle sue idee disegnando su un pezzo di tessuto con sopra il disegno di una scarpa. Ha prodotto cinque diversi modelli, uno dei quali era lo Swoosh che ricorda un'ala e allude a Nike, la dea greca della vittoria.
 Avendo bisogno di scegliere un logo per rispettare le scadenze di produzione incombenti, Knight ha optato per lo Swoosh dopo aver rifiutato altri quattro design di Davidson.
 A quel tempo, ha dichiarato del logo: "Non lo amo, ma crescerà su di me".
-Per i suoi servizi, la società le ha pagato $ 35, che, se adeguati all'inflazione per il 2018, sarebbero l'equivalente in valore di circa $ 217.
+
+![center](assets/nike-swoosh.jpg)
+
+---
+
+## 35 dollari
+
+Per i suoi servizi, la società le ha pagato 35 dollari, che, se adeguati all'inflazione per il 2018, sarebbero l'equivalente in valore di circa 217 dollari.
 Davidson ha continuato a lavorare per Blue Ribbon Sports fino a quando le esigenze di progettazione dell'azienda in crescita hanno superato la capacità di una persona. Nel 1976, l'azienda ha assunto la sua prima agenzia pubblicitaria esterna, John Brown and Partners, e Davidson ha continuato a lavorare sulle esigenze di altri clienti.
 
 ---
 
-Nel settembre 1983, quasi tre anni dopo la quotazione in borsa della società, Knight invitò Davidson a un ricevimento aziendale. Lì, le ha regalato swoosh di cioccolato, un anello di diamanti in oro e inciso con lo Swoosh e una busta piena di 500 azioni (stimate per un valore di $ 1.000.000 a partire dal 2015) di azioni Nike che sono state suddivise in 32.000 azioni a partire dal 2016. Del regalo, dice Davidson, "questo è stato qualcosa di piuttosto speciale da fare per Phil, perché inizialmente gli avevo fatturato e lui ha pagato quella fattura". Davidson divenne noto come "The Logo Lady". Nel 1995 Nike ha rimosso la parola "Nike" dal logo; lo Swoosh ora si distingue da solo come logo del marchio.
+## La gratitudine di Phil Knight
+
+Nel settembre 1983, quasi tre anni dopo la quotazione in borsa della società, Knight invitò Davidson a un ricevimento aziendale. In quella sede le ha regalato uno swoosh di cioccolato, un anello di diamanti in oro e inciso con lo Swoosh e una busta piena di 500 azioni (stimate per un valore di 1.000.000 dollari a partire dal 2015) di azioni Nike che sono state suddivise in 32.000 azioni a partire dal 2016.
+Del regalo, dice Davidson, "questo è stato qualcosa di piuttosto speciale da fare per Phil, perché inizialmente gli avevo fatturato e lui ha pagato quella fattura".
+Davidson divenne noto come "The Logo Lady". Nel 1995 Nike ha rimosso la parola "Nike" dal logo; lo Swoosh ora si distingue da solo come logo del marchio.
 
 Davidson si è ritirata nel 2000 e ora si dedica agli hobby e al volontariato,
 
@@ -122,21 +169,33 @@ Davidson si è ritirata nel 2000 e ora si dedica agli hobby e al volontariato,
 
 ---
 
-## Sviluppo pre-2000
+## L'influenza dello sviluppo nel WebDesign
+
+Un aspetto di cui dobbiamo tener conto è dato dal fatto che il modo col quale si fa sviluppo influenza il modo col quale si fa design.
+
+Se un tempo il web era considerato solamente un luogo dove condividere documenti ipertestuali, oggi è diventato un luogo dove si possono creare applicazioni complesse.
+
+Questo ha portato ad una evoluzione del modo col quale si fa design, che non è solo un aspetto estetico, ma anche un aspetto funzionale.
+
+Proviamo a seguire questa evoluzione, tenendo a mente quando sono nato e come si sono evoluti alcuni strumenti che noi utilizziamo ormai quotidianamente.
+
+---
+
+## Ma che ne sanno i 2000
 
 Prima degli anni 2000 lo sviluppo era generalmente desktop/locale o client/server
 
-Desktop/Locale
-Applicazione e dati risiedevano su una singola macchina
+- Desktop/Locale
+- Applicazione e dati risiedevano su una singola macchina
 
 ---
 
 ## Client/Server
 
-Dati e applicazione erano divisi fra client e server in modalità differenti
-Applicazione locale e dati su server con gestione locale
-Applicazione locale e dati su server con gestione centralizzata
-Applicazione e dati su server con utilizzo di thin client
+- Dati e applicazione erano divisi fra client e server in modalità differenti
+- Applicazione locale e dati su server con gestione locale
+- Applicazione locale e dati su server con gestione centralizzata
+- Applicazione e dati su server con utilizzo di thin client
 
 <https://it.wikipedia.org/wiki/Thin_client>
 
@@ -152,12 +211,12 @@ A partire dagli anni 90, soprattutto dopo gli anni 2000, lo sviluppo si è forte
 
 Vantaggi delle applicazioni web
 
-Centralità
-Scalabilità
-Diffusione su qualsiasi tipo di device
-Responsive
-Resilienza
-Utilizzo dentro sandbox
+- Centralità
+- Scalabilità
+- Diffusione su qualsiasi tipo di device
+- Responsive
+- Resilienza
+- Utilizzo dentro sandbox
 
 ---
 
@@ -165,10 +224,10 @@ Utilizzo dentro sandbox
 
 Svantaggi
 
-Impossibilità di accesso a dati locali
-Difficoltà nell’uso di apparati legacy locali
-L’applicazione viene scaricata in continuazione perché non risiede sul client
-Troubleshooting difficoltoso
+- Impossibilità di accesso a dati locali
+- Difficoltà nell’uso di apparati legacy locali
+- L’applicazione viene scaricata in continuazione perché non risiede sul client
+- Troubleshooting difficoltoso
 
 ---
 
@@ -178,9 +237,9 @@ Agli inizi degli anni 2000 il web diventa la prima piattaforma di sviluppo.
 
 Gli strumenti necessari per realizzare un’applicazione erano
 
-HTML
-CSS
-Javascript
+- HTML
+- CSS
+- Javascript
 
 ---
 
@@ -188,9 +247,9 @@ Javascript
 
 Il backend delle applicazioni si riduceva ad un numero abbastanza limitato di prodotti
 
-Lotus Notes
-Tomcat/Jboss (mondo java)
-CGI Application (scritte in C/Perl/etc)
+- Lotus Notes
+- Tomcat/Jboss (mondo Java)
+- CGI Application (scritte in C/Perl/etc)
 
 ---
 
@@ -200,8 +259,8 @@ jQuery: Libreria che permette agli sviluppatori di semplificare molte operazioni
 
 L’obiettivo era quello di scrivere meno righe di codice ed avere una miglior portabilità cross browser su aspetti come
 
-chiamate AJAX
-manipolazione del DOM
+- Chiamate AJAX
+- Manipolazione del DOM
 
 ---
 
@@ -218,8 +277,8 @@ Si basa su uno scambio di dati in background fra web browser e server, consenten
 ## DOM
 
 Document Object Model (abbreviato come DOM), è un modello ad oggetti del documento.
-
 È una forma di rappresentazione dei documenti strutturati diventata lo standard ufficiale del W3C in maniera da essere neutrali sia per la lingua che per la piattaforma
+
 ![center width:600px](assets/dom.png)
 <https://it.wikipedia.org/wiki/Document_Object_Model>
 
@@ -229,8 +288,8 @@ Document Object Model (abbreviato come DOM), è un modello ad oggetti del docume
 
 CSS frameworks – Permettono di standardizzare l’utilizzo dei CSS, focalizzandosi sul design e sulla UI
 
-Bootstrap
-Foundation
+- Bootstrap
+- Foundation
 
 <https://dev.to/theme_selection/best-css-frameworks-in-2020-1jjh>
 
@@ -318,6 +377,12 @@ Un CMS, acronimo di Content Management System, è uno strumento software, instal
 L'immagine di sfondo è stata generata con <https://app.haikei.app>
 
 Ogni immagine inserita riporta la fonte
+
+---
+
+## Riferimenti
+
+Per approfondimenti fare riferimento al sito dell'autore [baccan.it](https://www.baccan.it) o al suo profilo [GitHub](https://github.com/matteobaccan)
 
 ---
 
