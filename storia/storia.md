@@ -10,7 +10,7 @@ footer: https://github.com/matteobaccan/CorsoWebDesign versione del %date% %time
 
 # Storia del WebDesign
 
-Dalla creazione di Internet all'evoluzione di HTML
+Breve introduzione alla creazione di Internet all'evoluzione di HTML
 
 ![bg right](assets/matteo-baccan.jpg)
 
@@ -31,13 +31,11 @@ Storia di internet: come si è evoluta la rete e quali sono i vantaggi che ha po
 
 Evoluzione di HTML: come è nato e si è evoluto
 
-<matteo@baccan.it> – <https://www.baccan.it>
-
 ---
 
 ## Internet History
 
-Slide provenienti dalle slide del libro: “Computer Networking: a Top Down Approach”
+Le slide seguenti provengono dalle slide del libro: “Computer Networking: a Top Down Approach” e sono state tradotte in italiano dall'autore di queste slide.
 
 <https://gaia.cs.umass.edu/kurose_ross/ppt.php>
 
@@ -81,9 +79,9 @@ definiscono l'architettura Internet odierna
 ## 1980-1990: nuovi protocolli, proliferazione di reti
 
 1983: implementazione di TCP/IP
-1982: definito il protocollo di posta elettronica smtp
+1982: definito il protocollo di posta elettronica SMTP
 1983: definito DNS per la traduzione dei nomi in indirizzi IP
-1985: definito il protocollo ftp
+1985: definito il protocollo FTP
 1988: controllo della congestione TCP
 nuove reti nazionali: CSnet, BITnet, NSFnet, Minitel
 100.000 host connessi alla confederazione di reti
@@ -96,14 +94,12 @@ nuove reti nazionali: CSnet, BITnet, NSFnet, Minitel
 
 ---
 
-## 1990, 2000: commercializzazione, il Web, nuove applicazioni
+## 1990-2000: commercializzazione, il Web, nuove applicazioni
 
-primi anni '90: ARPAnet è stato dismesso
+primi anni '90: ARPAnet viene dismessa
 1991: NSF rimuove le restrizioni sull'uso commerciale di NSFnet (dismesso nel 1995)
-primi anni '90: Web
-ipertesto [Bush 1945, Nelson anni '60]
-HTML, HTTP: Tim Berners-Lee
-1994: Mosaic, successivamente Netscape
+primi anni '90: Web : ipertesto [Bush 1945, Ted Nelson anni '60], HTML, HTTP: Tim Berners-Lee (CERN)
+1994: Mosaic, successivamente Netscape, CSS: Håkon Wium Lie (CERN-Opera)
 fine anni '90: commercializzazione del Web
 fine anni '90 - 2000:
 più applicazioni di successo: messaggistica istantanea, condivisione di file P2P
@@ -126,7 +122,7 @@ collegamenti di backbone che operano a Gbps (Gigabit al secondo)
 
 ---
 
-## 2021 - 2023: AI
+## 2021-2023: AI
 
 L'Intelligenza artificiale (AI) e il Machine Learning (ML) hanno avuto un impatto significativo su Internet negli ultimi anni. Le tecnologie di intelligenza artificiale vengono utilizzate in una vasta gamma di applicazioni, come assistenti virtuali, riconoscimento vocale, raccomandazioni personalizzate e automazione dei processi aziendali.
 
@@ -136,7 +132,7 @@ Sicurezza informatica avanzata: Con l'aumento delle minacce alla sicurezza infor
 
 ## Evoluzione di HTML
 
-Informazioni provenienti dalle specifiche ufficiali
+Le slide seguenti provengono dalle specifiche ufficiali e sono state tradotte in italiano dall'autore di queste slide.
 
 <https://html.spec.whatwg.org>
 
@@ -223,7 +219,7 @@ Nel 2006, il W3C manifestò interesse a partecipare allo sviluppo di HTML5 e nel
 
 Per diversi anni, i due gruppi hanno lavorato insieme. Nel 2011, tuttavia, i gruppi giunsero alla conclusione che avevano obiettivi diversi: il W3C voleva pubblicare una versione "finita" di "HTML5", mentre il WHATWG voleva continuare a lavorare su uno standard vivente per HTML, mantenendo continuamente la specifica anziché congelarla in uno stato con problemi noti e aggiungendo nuove funzionalità secondo necessità per far evolvere la piattaforma.
 
-Nel 2019, il WHATWG e il W3C hanno firmato un accordo per collaborare su una singola versione di HTML in futuro: questo documento.
+Nel 2019, il WHATWG e il W3C hanno firmato un accordo per collaborare in futuro su una singola versione di HTML.
 
 Approfondimenti <https://it.wikipedia.org/wiki/HTML>
 
@@ -231,13 +227,18 @@ Approfondimenti <https://it.wikipedia.org/wiki/HTML>
 
 ## Fonti usate per la creazione di queste slide
 
-<https://aaronsim.notion.site/b4f5dd304d9a4683a70167b6cc4b94f1?v=6cc0bd8ce4f04f26ad088e44c910b167> : elenco di prodotti basati su AI
 <https://gaia.cs.umass.edu/kurose_ross/ppt.php> : “Computer Networking: a Top Down Approach”
 <https://html.spec.whatwg.org> : specifiche HTML
 
 L'immagine di sfondo è stata generata con <https://app.haikei.app>
 
 Ogni immagine inserita riporta la fonte
+
+---
+
+## Riferimenti
+
+Per approfondimenti fare riferimento al sito dell'autore [baccan.it](https://www.baccan.it) o al suo profilo [GitHub](https://github.com/matteobaccan)
 
 ---
 
