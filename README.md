@@ -27,7 +27,7 @@ Di seguito sono riportati i link ai singoli argomenti trattati nel corso di WebD
 
 - [Integrazione Github Netlify : progetto a singola pagina per WebDesign](https://github.com/matteobaccan/github-netlify-boilerplate)
 
-### Esercizi di WebDesign
+### Progetti preparati per l'esame di WebDesign
 
 - [ACME-2022-2023-WebDesign](https://github.com/matteobaccan/ACME-2022-2023-WebDesign)
 - [ACME-2023-2024-WebDesign](https://github.com/matteobaccan/ACME-2023-2024-WebDesign)
