@@ -2,15 +2,30 @@
 
 [![Genera PDF](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoWebDesign/actions/workflows/generatepdf.yml)
 
-Questo progetto contiene tutto il materiale che ho prodotto per i miei corsi di WebDesign. Ho utilizzato una licenza che permette a chiunque di utilizzare il materiale per scopi didattici.
+Raccolta completa di materiali didattici per l'apprendimento del Web Design, liberamente utilizzabili per scopi formativi.
 
-## Contenuto del progetto
+## Overview del Progetto
 
-All'interno di questo progetto sono presenti una serie di riferimenti ad altri progetti che mantengo nel tempo e fanno riferimento a singoli argomenti. Ho raccolto il materiale utilizzando fonti presenti in rete, portali di riferimento, testi scritti da me o presi da siti web specializzati, indicando sempre la fonte per approfondire i singoli argomenti trattati.
+Questa repository raccoglie materiali didattici accuratamente selezionati e organizzati per fornire una formazione completa nel campo del Web Design. Il contenuto spazia dalle basi fino agli argomenti più avanzati, offrendo un percorso di apprendimento strutturato e professionale.
 
-Grazie a questa raccolta di materiali, potrai trovare tutto ciò di cui hai bisogno per imparare il WebDesign in modo completo e approfondito.
+## Struttura dei Contenuti
 
-Buon apprendimento!
+I materiali sono organizzati in moduli tematici e includono:
+- Documentazione teorica
+- Esercitazioni pratiche
+- Progetti dimostrativi
+- Link a risorse esterne selezionate
+- Riferimenti bibliografici
+
+## Fonti e Attribuzioni
+
+I contenuti provengono da:
+- Materiale originale sviluppato per il corso
+- Risorse selezionate da portali specializzati
+- Documentazione tecnica di riferimento
+- Contributi della community del web design
+
+Ogni risorsa esterna è accuratamente citata per permettere approfondimenti e consultazione delle fonti originali.
 
 ## Materiale didattico
 
@@ -31,6 +46,7 @@ Di seguito sono riportati i link ai singoli argomenti trattati nel corso di WebD
 
 - [ACME-2022-2023-WebDesign](https://github.com/matteobaccan/ACME-2022-2023-WebDesign)
 - [ACME-2023-2024-WebDesign](https://github.com/matteobaccan/ACME-2023-2024-WebDesign)
+- [ACME-2024-2025-WebDesign](https://github.com/matteobaccan/ACME-2024-2025-WebDesign)
 
 ## Cosa consegnare all'esame
 
@@ -69,3 +85,7 @@ Tutti i lavori depositati devono contenere i dati minimi per l'identificazione, 
 - Numero progetto/esercitazione e breve descrizione
 
 Ricordate quindi di indicare queste informazioni, arricchendo il README.md del progetto e riportando i dati nella cover del CD/Pennetta USB.
+
+## Licenza
+
+Il materiale è rilasciato sotto licenza aperta per uso didattico. Consultare il file LICENSE per i dettagli completi sui termini di utilizzo.
