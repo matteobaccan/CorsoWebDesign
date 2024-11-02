@@ -3,7 +3,7 @@ theme: default
 _class: lead
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+backgroundImage: url('assets/background.svg')
 marp: true
 footer: https://github.com/matteobaccan/CorsoWebDesign versione del %date% %time%
 ---
@@ -21,6 +21,35 @@ img[alt~='center'] {
   display: block;
   margin: 0 auto;
 }
+img[alt~='floatleft'] {
+  float: left;
+  margin: auto;
+}
+img[alt~='floatright'] {
+  float: right;
+  margin: auto;
+}
+h2 {
+    color: #e50000;
+    position: absolute;
+    top: 0px;
+    background-color: white;
+    width: 100%;
+    left: 0;
+    padding: 0px 0px 5px 75px;
+    height: 50px;
+    border-bottom: 1px solid red;
+    margin: 0px;
+}
+h3 {
+    color: #e50000;
+}
+footer {
+    width: 100%;
+    left: 5px;
+    bottom: 0;
+    padding: 0 0 10px 10px;
+}
 " -->
 
 ---
@@ -35,46 +64,64 @@ Parleremo di HTML, CSS, Javascript e di tecniche di sviluppo web_
 
 ---
 
-![bg left:20% 80%](assets/matteo-baccan.jpg)
-
 ## Chi sono ?
 
-Divulgatore informatico, giornalista per riviste tecniche nazionali oltre 700 articoli per: Dev, Login, Computer Programming, Mokabyte. Relatore tecnico ad eventi di programmazione: Borland Forum 2000, Webbit 2004, JIP day 2005, Javaday (2006,2007,2010) PHPDay (2008, 2010), CONFSL 2010, WebTech 2010, Codemotion (2011,2012,2013,2014). Autore di Corso di C# ISBN 8881500167. Autore di JobCrawler e HTML2POP3 (Oltre 900.000 download su SourceForge)
+Matteo Baccan è un ingegnere del software e formatore professionista con oltre 30 anni di esperienza nel settore IT.
+Ha lavorato per diverse aziende e organizzazioni, occupandosi di progettazione, sviluppo, testing e gestione di applicazioni web e desktop, utilizzando vari linguaggi e tecnologie. È anche un appassionato divulgatore e insegnante di informatica, autore di numerosi articoli, libri e corsi online rivolti a tutti i livelli di competenza.
+Gestisce un sito internet e un canale YouTube dove condivide video tutorial, interviste, recensioni e consigli sulla programmazione.
+Attivo nelle community open source, partecipa regolarmente a eventi e concorsi di programmazione.
+Si definisce un "sognatore realista" che ama sperimentare, innovare e condividere le sue conoscenze e passioni, seguendo il motto: "Non smettere mai di imparare, perché la vita non smette mai di insegnare".
 
 ---
 
-## Il mio motto
+## Chi mi ispira
 
-## Gualtiero Marchesi
+### Gualtiero Marchesi
 
 Il segreto di un buon piatto sta nel togliere non nell’aggiungere
 
-## Coco Chanel
+### Coco Chanel
 
 Spesso togliere è meglio che aggiungere
 
-## Antoine de Saint-Exupéry
+### Antoine de Saint-Exupéry
 
 La perfezione si raggiunge, non quando non c’è più niente da aggiungere, ma quando non vi è più niente da togliere
 
-<!-- https://marpit.marp.app/image-syntax -->
-![bg left:10% vertical width:100px](assets/gualtiero%20marchesi.png)
-![bg left:10% vertical width:100px](assets/coco%20chanel.png)
-![bg left:10% vertical width:100px](assets/antoine%20de%20saint-exupery.png)
+### Henry Ford
+
+Quello che non c'è non si rompe
 
 ---
 
-## Il programma
+## Obiettivo del corso
 
-Il corso si propone l’obiettivo di fornire allo studente le conoscenze di base per poter realizzare e comprendere le tecniche di sviluppo web.
+Il corso si propone di fornire allo studente le conoscenze di base per poter realizzare e comprendere le tecniche di sviluppo web.
 
-Gli argomenti teorici trattati provengono dal sito w3schools.com ed affrontano i seguenti argomenti:
+### Argomenti teorici
 
-**HTML**
-**CSS**
-**Javascript**
+I contenuti principali, basati su w3schools.com, includono:
 
-Ad integrazione di questi argomenti verranno mostrate le moderne tecniche di pubblicazione di siti statici tramite GitHub e provider JamStack e l’adeguamento di siti web per problematiche SEO e prestazionali.
+* **HTML** - Struttura e semantica delle pagine web
+* **CSS** - Stile e layout delle pagine
+* **JavaScript** - Programmazione lato client
+
+---
+
+## Obiettivi avanzati
+
+### Strumenti moderni
+
+Verranno inoltre trattati argomenti pratici moderni:
+
+* Pubblicazione di siti statici
+  * Utilizzo di GitHub
+  * Utilizzo di Netlify/Vercel
+  * Utilizzo di Visual Studio Code
+  * Provider JamStack
+* Ottimizzazione siti web
+  * Tecniche SEO
+  * Miglioramento prestazioni
 
 ---
 
@@ -98,7 +145,9 @@ Il sito è disponibile anche in modalità offline a questo indirizzo <https://gi
 
 ## Slide della parte teorica
 
-Tutte le slide del corso sono disponibili a questo indirizzo in formato sorgente
+Tutte le slide del corso sono disponibili a questo indirizzo in formato sorgente e vengono costantemente aggiornate
+
+Ogni serie di slide riporta la data di ultima modifica
 
 <https://github.com/matteobaccan/CorsoWebDesign>
 
@@ -115,39 +164,43 @@ _Ci aiuterà a salvare, verificare, mantenere traccia delle modifiche del nostro
 <https://netlify.app> - The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web
 _Ci servirà per pubblicare i nostri lavori online_
 
+<https://vercel.com> - Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.
+_In alternativa a Netlify_
+
 ---
 
 ## Progetto da svolgere durante il corso
 
-All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito aziendale mono-pagina
+All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di un sito mono-pagina
 
 ### Elementi principali
 
-- Nome azienda e motto
-
-- Chi siamo
-
-- I servizi che offriamo
+* README.MD descrittivo del progetto
+* Nome azienda e motto: ogni alunno potrà utilizzare design di loghi già realizzati per altri corsi
+* Chi siamo: un paragrafo che identifica l'azienda e di cosa si occupa
+* I servizi che offriamo: elenco di servizi offerti ed eventuali screenshot di lavori già realizzati
 
 ---
+
+## Progetto da svolgere durante il corso - 2
 
 ### Elementi descrittivi
 
-- Blog e notizie
+Il sito potrà ospitare integrazioni tratte da siti esterni o strumenti di AI
 
-- Testimonial
-
-- Dove trovarci
-
-- Modulo di contatto
+* Blog e notizie
+* Testimonial
+* Dove trovarci : con integrazione di Google Maps
+* Modulo di contatto : con integrazione delle form Netlify
 
 ---
 
+## Progetto da svolgere durante il corso - 3
+
 ## Caratteristiche
 
-- Responsive
-
-- Esente da errori sintattici
+* Responsive : la resa dovrà essere ottimale in ambito mobile, tablet e desktop
+* Esente da errori sintattici : verificabili tramite un validatore online
 
 ---
 
@@ -166,15 +219,17 @@ Dal repository <https://github.com/matteobaccan/github-netlify-boilerplate> è p
 
 ## Materiale da portare all'esame
 
-Le slide di presentazione del vostro progetto, che trattino i seguenti argomenti
+Le **slide di presentazione** del vostro progetto, che trattino i seguenti argomenti
 
-- Una quindicina di slide che presentano il progetto: cosa è, cosa fa, a cosa serve
-- Descrizione degli strumenti utilizzati per lo sviluppo: siti web (Codepen, Codespace, etc), automatismi, AI, librerie javascript (Bootstrap, JQuery, etc)
-- Screenshot del progetto in modalità PC, Tablet e cellulare
-- Spiegazione file realizzati e loro contenuto: index.html, style.css, script.js, etc
-- Schermata con esito del validatore W3C <https://validator.w3.org/> e spiegazione miglioramenti effettuati
-- Esito test SEO e spiegazione miglioramenti effettuati
-- Esito test GTMetrix <https://gtmetrix.com/> e spiegazione miglioramenti effettuati
+* Una quindicina di slide che presentano il progetto: cosa è, cosa fa, a cosa serve
+* Descrizione degli strumenti utilizzati per lo sviluppo: siti web (Codepen, Codespace, etc), automatismi, AI, librerie javascript (Bootstrap, JQuery, etc)
+* Screenshot del progetto in modalità PC, Tablet e cellulare
+* Spiegazione file realizzati e loro contenuto: index.html, style.css, script.js, etc
+* Schermata con esito del validatore W3C <https://validator.w3.org/> e spiegazione miglioramenti effettuati
+* Esito test SEO e spiegazione miglioramenti effettuati
+* Esito test GTMetrix <https://gtmetrix.com/> e spiegazione miglioramenti effettuati
+
+ATTENZIONE: **In assenza di uno o più punti sopra indicati il progetto sarà penalizzato**
 
 ---
 
@@ -183,3 +238,13 @@ Le slide di presentazione del vostro progetto, che trattino i seguenti argomenti
 Il materiale deve essere consegnato in forma digitale in modo possa essere conservato dalla segreteria per eventuali verifiche, come indicato qui
 
 <https://github.com/matteobaccan/CorsoWebDesign>
+
+---
+
+## Disclaimer
+
+L'autore ha generato questo testo in parte con GPT, il modello di generazione del linguaggio su larga scala di OpenAI.
+
+Dopo aver generato la bozza del testo, l'autore ha modificato e rivisto il contenuto e si assume la responsabilità di questa pubblicazione.
+
+L'immagine di sfondo è stata generata con <https://app.haikei.app>

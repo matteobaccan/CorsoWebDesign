@@ -6,11 +6,12 @@ Raccolta completa di materiali didattici per l'apprendimento del Web Design, lib
 
 ## Overview del Progetto
 
-Questa repository raccoglie materiali didattici accuratamente selezionati e organizzati per fornire una formazione completa nel campo del Web Design. Il contenuto spazia dalle basi fino agli argomenti più avanzati, offrendo un percorso di apprendimento strutturato e professionale.
+Questo repository raccoglie materiali didattici accuratamente selezionati e organizzati per fornire una formazione completa nel campo del Web Design. Il contenuto spazia dalle basi fino agli argomenti più avanzati, offrendo un percorso di apprendimento strutturato e professionale.
 
 ## Struttura dei Contenuti
 
 I materiali sono organizzati in moduli tematici e includono:
+
 - Documentazione teorica
 - Esercitazioni pratiche
 - Progetti dimostrativi
@@ -20,12 +21,17 @@ I materiali sono organizzati in moduli tematici e includono:
 ## Fonti e Attribuzioni
 
 I contenuti provengono da:
+
 - Materiale originale sviluppato per il corso
 - Risorse selezionate da portali specializzati
 - Documentazione tecnica di riferimento
 - Contributi della community del web design
 
 Ogni risorsa esterna è accuratamente citata per permettere approfondimenti e consultazione delle fonti originali.
+
+## Cosa portare all'esame
+
+- [Argomenti del corso e materiale da produrre per l'esame](https://github.com/matteobaccan/CorsoWebDesign/blob/main/intro/intro.pdf)
 
 ## Materiale didattico
 
@@ -38,25 +44,21 @@ Di seguito sono riportati i link ai singoli argomenti trattati nel corso di WebD
 - [Corso CSS](https://github.com/matteobaccan/CorsoCSS)
 - [Corso Javascript](https://github.com/matteobaccan/CorsoJavascript)
 
-### Progetti di esempio del corso di WebDesign
+### Progetto di esempio dal quale prendere spunto
 
 - [Integrazione Github Netlify : progetto a singola pagina per WebDesign](https://github.com/matteobaccan/github-netlify-boilerplate)
 
-### Progetti preparati per l'esame di WebDesign
+### Progetti preparati nel corso degli anni per l'esame di WebDesign
 
 - [ACME-2022-2023-WebDesign](https://github.com/matteobaccan/ACME-2022-2023-WebDesign)
 - [ACME-2023-2024-WebDesign](https://github.com/matteobaccan/ACME-2023-2024-WebDesign)
 - [ACME-2024-2025-WebDesign](https://github.com/matteobaccan/ACME-2024-2025-WebDesign)
 
-## Cosa consegnare all'esame
-
-- [Argomenti del corso e materiale da produrre per l'esame](https://github.com/matteobaccan/CorsoWebDesign/blob/main/intro/intro.pdf)
-
 ### Corso di WebDesign2 - Strumenti di sviluppo
 
 L'evoluzione di questo corso è contenuta nel progetto [Corso WebDesign2 - Strumenti di sviluppo](https://github.com/matteobaccan/CorsoWebDesign2)
 
-## Cosa devo consegnare alla commissione d'esame
+## Approfondimento su devo consegnare alla commissione d'esame
 
 Come prova del vostro lavoro viene chiesta una copia di quanto avete prodotto in modo da poterla conservare in Accademia.
 

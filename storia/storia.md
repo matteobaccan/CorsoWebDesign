@@ -21,6 +21,35 @@ img[alt~='center'] {
   display: block;
   margin: 0 auto;
 }
+img[alt~='floatleft'] {
+  float: left;
+  margin: auto;
+}
+img[alt~='floatright'] {
+  float: right;
+  margin: auto;
+}
+h2 {
+    color: #e50000;
+    position: absolute;
+    top: 0px;
+    background-color: white;
+    width: 100%;
+    left: 0;
+    padding: 0px 0px 5px 75px;
+    height: 50px;
+    border-bottom: 1px solid red;
+    margin: 0px;
+}
+h3 {
+    color: #e50000;
+}
+footer {
+    width: 100%;
+    left: 5px;
+    bottom: 0;
+    padding: 0 0 10px 10px;
+}
 " -->
 
 ---
@@ -33,6 +62,16 @@ Evoluzione di HTML: come è nato e si è evoluto
 
 ---
 
+## Chi sono ?
+
+Matteo Baccan è un ingegnere del software e formatore professionista con oltre 30 anni di esperienza nel settore IT.
+Ha lavorato per diverse aziende e organizzazioni, occupandosi di progettazione, sviluppo, testing e gestione di applicazioni web e desktop, utilizzando vari linguaggi e tecnologie. È anche un appassionato divulgatore e insegnante di informatica, autore di numerosi articoli, libri e corsi online rivolti a tutti i livelli di competenza.
+Gestisce un sito internet e un canale YouTube dove condivide video tutorial, interviste, recensioni e consigli sulla programmazione.
+Attivo nelle community open source, partecipa regolarmente a eventi e concorsi di programmazione.
+Si definisce un "sognatore realista" che ama sperimentare, innovare e condividere le sue conoscenze e passioni, seguendo il motto: "Non smettere mai di imparare, perché la vita non smette mai di insegnare".
+
+---
+
 ## Internet History
 
 Le slide seguenti provengono dalle slide del libro: “Computer Networking: a Top Down Approach” e sono state tradotte in italiano dall'autore di queste slide.
@@ -41,7 +80,7 @@ Le slide seguenti provengono dalle slide del libro: “Computer Networking: a To
 
 ---
 
-## 1961-1972: Principi iniziali di commutazione di pacchetto (packet-switching)
+## 1961-1972: Principi di commutazione di pacchetto (packet-switching)
 
 1961: Leonard Kleinrock - la teoria delle code dimostra l'efficacia della commutazione di pacchetto
 1964: Paul Baran - commutazione di pacchetto nelle reti militari
@@ -76,6 +115,14 @@ definiscono l'architettura Internet odierna
 
 ---
 
+## Il concetto di best-effort
+
+Il concetto di best-effort è un principio fondamentale dell'architettura di rete di Internet. In un sistema best-effort, la rete non garantisce la consegna dei pacchetti, la sequenza di consegna dei pacchetti o la qualità del servizio. 
+
+Invece, la rete si impegna a fare del suo meglio per consegnare i pacchetti il più rapidamente possibile, ma non fornisce alcuna garanzia di consegna o di qualità del servizio.
+
+---
+
 ## 1980-1990: nuovi protocolli, proliferazione di reti
 
 1983: implementazione di TCP/IP
@@ -90,7 +137,7 @@ nuove reti nazionali: CSnet, BITnet, NSFnet, Minitel
 
 ## Internet nel 1991
 
-![center width:700px](assets/nsfnet.png)
+![center width:800px](assets/nsfnet.png)
 
 ---
 
@@ -122,11 +169,11 @@ collegamenti di backbone che operano a Gbps (Gigabit al secondo)
 
 ---
 
-## 2021-2023: AI
+## 2021-2024: AI e Sicurezza
 
-L'Intelligenza artificiale (AI) e il Machine Learning (ML) hanno avuto un impatto significativo su Internet negli ultimi anni. Le tecnologie di intelligenza artificiale vengono utilizzate in una vasta gamma di applicazioni, come assistenti virtuali, riconoscimento vocale, raccomandazioni personalizzate e automazione dei processi aziendali.
+L'Intelligenza Artificiale (AI) e il Machine Learning (ML) hanno avuto un impatto trasformativo su Internet negli ultimi anni. Queste tecnologie vengono impiegate in diverse applicazioni come assistenti virtuali, riconoscimento vocale, sistemi di raccomandazione e automazione dei processi aziendali.
 
-Sicurezza informatica avanzata: Con l'aumento delle minacce alla sicurezza informatica, la protezione dei dati e della privacy è diventata una priorità sempre maggiore. Sono state sviluppate nuove tecnologie e pratiche per migliorare la sicurezza su Internet, come crittografia avanzata, autenticazione a due fattori e soluzioni di sicurezza basate sull'intelligenza artificiale.
+La sicurezza informatica è diventata una componente fondamentale di Internet, con una crescente attenzione alla protezione dei dati e della privacy. Il settore ha sviluppato numerose tecnologie e pratiche tra cui crittografia avanzata, inclusi algoritmi post-quantistici, autenticazione a più fattori e soluzioni di sicurezza basate su AI.
 
 ---
 
@@ -230,13 +277,7 @@ Approfondimenti <https://it.wikipedia.org/wiki/HTML>
 <https://gaia.cs.umass.edu/kurose_ross/ppt.php> : “Computer Networking: a Top Down Approach”
 <https://html.spec.whatwg.org> : specifiche HTML
 
-L'immagine di sfondo è stata generata con <https://app.haikei.app>
-
 Ogni immagine inserita riporta la fonte
-
----
-
-## Riferimenti
 
 Per approfondimenti fare riferimento al sito dell'autore [baccan.it](https://www.baccan.it) o al suo profilo [GitHub](https://github.com/matteobaccan)
 
@@ -244,4 +285,8 @@ Per approfondimenti fare riferimento al sito dell'autore [baccan.it](https://www
 
 ## Disclaimer
 
-L'autore ha generato questo testo in parte con GPT-3, il modello di generazione del linguaggio su larga scala di OpenAI. Dopo aver generato la bozza della lingua, l'autore ha rivisto, modificato e rivisto la lingua a proprio piacimento e si assume la responsabilità  ultima del contenuto di questa pubblicazione.
+L'autore ha generato questo testo in parte con GPT, il modello di generazione del linguaggio su larga scala di OpenAI.
+
+Dopo aver generato la bozza del testo, l'autore ha modificato e rivisto il contenuto e si assume la responsabilità di questa pubblicazione.
+
+L'immagine di sfondo è stata generata con <https://app.haikei.app>
