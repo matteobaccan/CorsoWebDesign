@@ -117,7 +117,7 @@ definiscono l'architettura Internet odierna
 
 ## Il concetto di best-effort
 
-Il concetto di best-effort è un principio fondamentale dell'architettura di rete di Internet. In un sistema best-effort, la rete non garantisce la consegna dei pacchetti, la sequenza di consegna dei pacchetti o la qualità del servizio. 
+Il concetto di best-effort è un principio fondamentale dell'architettura di rete di Internet. In un sistema best-effort, la rete non garantisce la consegna dei pacchetti, la sequenza di consegna dei pacchetti o la qualità del servizio.
 
 Invece, la rete si impegna a fare del suo meglio per consegnare i pacchetti il più rapidamente possibile, ma non fornisce alcuna garanzia di consegna o di qualità del servizio.
 
