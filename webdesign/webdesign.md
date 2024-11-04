@@ -21,6 +21,35 @@ img[alt~='center'] {
   display: block;
   margin: 0 auto;
 }
+img[alt~='floatleft'] {
+  float: left;
+  margin: auto;
+}
+img[alt~='floatright'] {
+  float: right;
+  margin: auto;
+}
+h2 {
+    color: #e50000;
+    position: absolute;
+    top: 0px;
+    background-color: white;
+    width: 100%;
+    left: 0;
+    padding: 0px 0px 5px 75px;
+    height: 50px;
+    border-bottom: 1px solid red;
+    margin: 0px;
+}
+h3 {
+    color: #e50000;
+}
+footer {
+    width: 100%;
+    left: 5px;
+    bottom: 0;
+    padding: 0 0 10px 10px;
+}
 " -->
 
 ---
@@ -30,6 +59,16 @@ img[alt~='center'] {
 Il Web rappresenta lo standard de facto dello sviluppo moderno
 
 Nonostante questo continua ad essere necessario poter ancora sviluppare in modalità “desktop”
+
+---
+
+## Chi sono ?
+
+Matteo Baccan è un ingegnere del software e formatore professionista con oltre 30 anni di esperienza nel settore IT.
+Ha lavorato per diverse aziende e organizzazioni, occupandosi di progettazione, sviluppo, testing e gestione di applicazioni web e desktop, utilizzando vari linguaggi e tecnologie. È anche un appassionato divulgatore e insegnante di informatica, autore di numerosi articoli, libri e corsi online rivolti a tutti i livelli di competenza.
+Gestisce un sito internet e un canale YouTube dove condivide video tutorial, interviste, recensioni e consigli sulla programmazione.
+Attivo nelle community open source, partecipa regolarmente a eventi e concorsi di programmazione.
+Si definisce un "sognatore realista" che ama sperimentare, innovare e condividere le sue conoscenze e passioni, seguendo il motto: "Non smettere mai di imparare, perché la vita non smette mai di insegnare".
 
 ---
 
@@ -153,6 +192,7 @@ A quel tempo, ha dichiarato del logo: "Non lo amo, ma crescerà su di me".
 ## 35 dollari
 
 Per i suoi servizi, la società le ha pagato 35 dollari, che, se adeguati all'inflazione per il 2018, sarebbero l'equivalente in valore di circa 217 dollari.
+
 Davidson ha continuato a lavorare per Blue Ribbon Sports fino a quando le esigenze di progettazione dell'azienda in crescita hanno superato la capacità di una persona. Nel 1976, l'azienda ha assunto la sua prima agenzia pubblicitaria esterna, John Brown and Partners, e Davidson ha continuato a lavorare sulle esigenze di altri clienti.
 
 ---
@@ -160,6 +200,7 @@ Davidson ha continuato a lavorare per Blue Ribbon Sports fino a quando le esigen
 ## La gratitudine di Phil Knight
 
 Nel settembre 1983, quasi tre anni dopo la quotazione in borsa della società, Knight invitò Davidson a un ricevimento aziendale. In quella sede le ha regalato uno swoosh di cioccolato, un anello di diamanti in oro e inciso con lo Swoosh e una busta piena di 500 azioni (stimate per un valore di 1.000.000 dollari a partire dal 2015) di azioni Nike che sono state suddivise in 32.000 azioni a partire dal 2016.
+
 Del regalo, dice Davidson, "questo è stato qualcosa di piuttosto speciale da fare per Phil, perché inizialmente gli avevo fatturato e lui ha pagato quella fattura".
 Davidson divenne noto come "The Logo Lady". Nel 1995 Nike ha rimosso la parola "Nike" dal logo; lo Swoosh ora si distingue da solo come logo del marchio.
 
@@ -374,13 +415,7 @@ Un CMS, acronimo di Content Management System, è uno strumento software, instal
 
 ## Fonti usate per la creazione di queste slide
 
-L'immagine di sfondo è stata generata con <https://app.haikei.app>
-
 Ogni immagine inserita riporta la fonte
-
----
-
-## Riferimenti
 
 Per approfondimenti fare riferimento al sito dell'autore [baccan.it](https://www.baccan.it) o al suo profilo [GitHub](https://github.com/matteobaccan)
 
@@ -388,4 +423,8 @@ Per approfondimenti fare riferimento al sito dell'autore [baccan.it](https://www
 
 ## Disclaimer
 
-L'autore ha generato questo testo in parte con GPT-3, il modello di generazione del linguaggio su larga scala di OpenAI. Dopo aver generato la bozza della lingua, l'autore ha rivisto, modificato e rivisto la lingua a proprio piacimento e si assume la responsabilità  ultima del contenuto di questa pubblicazione.
+L'autore ha generato questo testo in parte con GPT, il modello di generazione del linguaggio su larga scala di OpenAI.
+
+Dopo aver generato la bozza del testo, l'autore ha modificato e rivisto il contenuto e si assume la responsabilità di questa pubblicazione.
+
+L'immagine di sfondo è stata generata con <https://app.haikei.app>
