@@ -80,7 +80,7 @@ Le slide seguenti provengono dalle slide del libro: “Computer Networking: a To
 
 ---
 
-## 1961-1972: Principi di commutazione di pacchetto (packet-switching)
+## 1961-1972: Commutazione di pacchetto (packet-switching)
 
 1961: Leonard Kleinrock - la teoria delle code dimostra l'efficacia della commutazione di pacchetto
 1964: Paul Baran - commutazione di pacchetto nelle reti militari
