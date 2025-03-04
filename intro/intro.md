@@ -78,7 +78,7 @@ Si definisce un "sognatore realista" che ama sperimentare, innovare e condivider
 
 ### Gualtiero Marchesi
 
-Il segreto di un buon piatto sta nel togliere non nell’aggiungere
+Il segreto di un buon piatto sta nel togliere non nell'aggiungere
 
 ### Coco Chanel
 
@@ -225,11 +225,11 @@ Le **slide di presentazione** del vostro progetto, che trattino i seguenti argom
 * Descrizione degli strumenti utilizzati per lo sviluppo: siti web (Codepen, Codespace, etc), automatismi, AI, librerie javascript (Bootstrap, JQuery, etc)
 * Screenshot del progetto in modalità PC, Tablet e cellulare
 * Spiegazione file realizzati e loro contenuto: index.html, style.css, script.js, etc
-* Schermata con esito del validatore W3C <https://validator.w3.org/> e spiegazione miglioramenti effettuati
-* Esito test SEO e spiegazione miglioramenti effettuati
-* Esito test GTMetrix <https://gtmetrix.com/> e spiegazione miglioramenti effettuati
+* Schermata con esito del validatore W3C <https://validator.w3.org/> e WCAG <https://www.w3.org/WAI/test-evaluate/tools/list/> e spiegazione miglioramenti
+* Esito test SEO e spiegazione miglioramenti
+* Esito test GTMetrix <https://gtmetrix.com/> e spiegazione miglioramenti
 
-ATTENZIONE: **In assenza di uno o più punti sopra indicati il progetto sarà penalizzato**
+La mancanza **totale o parziale** dei più punti indicati sopra porterà una penalizzazione
 
 ---
 
