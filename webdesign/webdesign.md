@@ -116,7 +116,7 @@ Vediamo ora alcuni passi importanti compiuti in questo senso.
 
 2006 Sass CSS pre-processor
 
-2007 CSS Grid layout
+2007 Prima bozza W3C di CSS Grid (supporto nei browser dal 2017)
 
 2009 CSS Flex box - <https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout>
 
@@ -128,9 +128,9 @@ Vediamo ora alcuni passi importanti compiuti in questo senso.
 
 2011 Metro/Flat design
 
-2012 Media query
+2011 WebGL per 3D
 
-2014 WebGL per 3D
+2012 Media query
 
 2015 Esplosione di HTML e abbandono di Flash
 
@@ -145,11 +145,23 @@ Vediamo ora alcuni passi importanti compiuti in questo senso.
 2019
 Background video
 Non-traditional page-flow / Parallax scrolling
-Interactive content: i siti non sono più statiche rappresentazioni, ma elementi interattivi <https://durimel.io/works/logos>
+Interactive content: i siti non sono più statiche rappresentazioni, ma elementi interattivi <https://www.durimel.io>
 Minimalismo: “Less is more”
 
 <https://redstapler.co/web-design-trends-2019/>
 <https://redstapler.co/evolution-webdev-webdesign-1990-2019/>
+
+---
+
+## 2020-2026
+
+2020 Core Web Vitals: le prestazioni diventano fattore di ranking
+
+2020-2022 Utility-first CSS (Tailwind CSS) e dark mode come standard
+
+2022 Fine del supporto di Internet Explorer e di AngularJS
+
+2023-2026 AI generativa nello sviluppo e nel design: assistenti di codice, generazione di layout, immagini e contenuti
 
 ---
 
@@ -218,7 +230,7 @@ Se un tempo il web era considerato solamente un luogo dove condividere documenti
 
 Questo ha portato ad una evoluzione del modo col quale si fa design, che non è solo un aspetto estetico, ma anche un aspetto funzionale.
 
-Proviamo a seguire questa evoluzione, tenendo a mente quando sono nato e come si sono evoluti alcuni strumenti che noi utilizziamo ormai quotidianamente.
+Proviamo a seguire questa evoluzione, tenendo a mente quando sono nati e come si sono evoluti alcuni strumenti che noi utilizziamo ormai quotidianamente.
 
 ---
 
@@ -325,20 +337,22 @@ Document Object Model (abbreviato come DOM), è un modello ad oggetti del docume
 
 ---
 
-## Frontend - 2007
+## Frontend - 2010
+
+AngularJS – Un Framework che semplifica lo sviluppo delle applicazioni web dinamiche con il data binding bidirezionale per scrivere meno codice.
+
+_AngularJS non è più supportato da gennaio 2022: il suo successore è Angular_
+
+---
+
+## Frontend - 2011
 
 CSS frameworks – Permettono di standardizzare l’utilizzo dei CSS, focalizzandosi sul design e sulla UI
 
 - Bootstrap
 - Foundation
 
-<https://dev.to/theme_selection/best-css-frameworks-in-2020-1jjh>
-
----
-
-## Frontend - 2010
-
-AngularJS – Un Framework che semplifica lo sviluppo delle applicazioni web dinamiche con il data binding bidirezionale per scrivere meno codice.
+<https://dev.to/themeselection/best-css-frameworks-in-2020-1jjh>
 
 ---
 
@@ -364,7 +378,7 @@ Strumenti per realizzare SPA sono Angular o React
 
 Una PWA è quasi sempre una SPA
 
-PWA, acronimo si Progressive Web Application, è un'applicazione web progressiva.
+PWA, acronimo di Progressive Web Application, è un'applicazione web progressiva.
 
 PWA è un termine coniato da Google ed è più una mentalità che una tecnica.
 
@@ -393,7 +407,7 @@ Per maggiori informazioni
 
 <https://it.wikipedia.org/wiki/Progressive_Web_App>
 
-<https://web.dev/progressive-web-apps/>
+<https://web.dev/explore/progressive-web-apps>
 
 La corretta combinazione dei principi di PWA e SPA può portare a un'esperienza utente notevolmente migliorata, specialmente sui telefoni cellulari con connessioni Internet inaffidabili.
 
@@ -423,7 +437,7 @@ Per approfondimenti fare riferimento al sito dell'autore [baccan.it](https://www
 
 ## Disclaimer
 
-L'autore ha generato questo testo in parte con GPT, il modello di generazione del linguaggio su larga scala di OpenAI.
+L'autore ha generato questo testo in parte con l'ausilio di strumenti di intelligenza artificiale generativa.
 
 Dopo aver generato la bozza del testo, l'autore ha modificato e rivisto il contenuto e si assume la responsabilità di questa pubblicazione.
 

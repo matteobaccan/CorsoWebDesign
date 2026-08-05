@@ -10,7 +10,7 @@ footer: https://github.com/matteobaccan/CorsoWebDesign versione del %date% %time
 
 # Storia del WebDesign
 
-Breve introduzione alla creazione di Internet all'evoluzione di HTML
+Breve introduzione alla creazione di Internet e all'evoluzione di HTML
 
 ![bg right](assets/matteo-baccan.jpg)
 
@@ -169,9 +169,11 @@ collegamenti di backbone che operano a Gbps (Gigabit al secondo)
 
 ---
 
-## 2021-2024: AI e Sicurezza
+## 2021-2026: AI e Sicurezza
 
 L'Intelligenza Artificiale (AI) e il Machine Learning (ML) hanno avuto un impatto trasformativo su Internet negli ultimi anni. Queste tecnologie vengono impiegate in diverse applicazioni come assistenti virtuali, riconoscimento vocale, sistemi di raccomandazione e automazione dei processi aziendali.
+
+L'avvento dell'AI generativa e dei modelli linguistici di grandi dimensioni (LLM) ha reso questi strumenti di uso quotidiano: chatbot conversazionali, generazione di testo, immagini e codice sono oggi integrati nei motori di ricerca, nei browser e negli strumenti di sviluppo web.
 
 La sicurezza informatica è diventata una componente fondamentale di Internet, con una crescente attenzione alla protezione dei dati e della privacy. Il settore ha sviluppato numerose tecnologie e pratiche tra cui crittografia avanzata, inclusi algoritmi post-quantistici, autenticazione a più fattori e soluzioni di sicurezza basate su AI.
 
@@ -212,7 +214,7 @@ XML - eXtensible Markup Language (Linguaggio di markup estensibile)
 
 ## 1998
 
-Intorno al momento in cui l'evoluzione di HTML fu interrotta nel 1998, alcune parti dell'API per HTML sviluppate dai fornitori di browser furono specificate e pubblicate con il nome di DOM Level 1 (nel 1998) e DOM Level 2 Core e DOM Level 2 HTML (a partire dal 2000 e culminando nel 2003). Questi sforzi poi si affievolirono, con alcune specifiche del DOM Level 3 pubblicate nel 2004, ma il gruppo di lavoro venne chiuso prima che tutti i bozze del Level 3 fossero completate.
+Intorno al momento in cui l'evoluzione di HTML fu interrotta nel 1998, alcune parti dell'API per HTML sviluppate dai fornitori di browser furono specificate e pubblicate con il nome di DOM Level 1 (nel 1998) e DOM Level 2 Core e DOM Level 2 HTML (a partire dal 2000 e culminando nel 2003). Questi sforzi poi si affievolirono, con alcune specifiche del DOM Level 3 pubblicate nel 2004, ma il gruppo di lavoro venne chiuso prima che tutte le bozze del Level 3 fossero completate.
 
 API - Application programming interface (Interfaccia di programmazione delle applicazioni)
 DOM - Document Object Model (Modello ad oggetti del documento)
@@ -285,7 +287,7 @@ Per approfondimenti fare riferimento al sito dell'autore [baccan.it](https://www
 
 ## Disclaimer
 
-L'autore ha generato questo testo in parte con GPT, il modello di generazione del linguaggio su larga scala di OpenAI.
+L'autore ha generato questo testo in parte con l'ausilio di strumenti di intelligenza artificiale generativa.
 
 Dopo aver generato la bozza del testo, l'autore ha modificato e rivisto il contenuto e si assume la responsabilità di questa pubblicazione.
 

@@ -58,7 +58,7 @@ Di seguito sono riportati i link ai singoli argomenti trattati nel corso di WebD
 
 L'evoluzione di questo corso è contenuta nel progetto [Corso WebDesign2 - Strumenti di sviluppo](https://github.com/matteobaccan/CorsoWebDesign2)
 
-## Approfondimento su devo consegnare alla commissione d'esame
+## Approfondimento su cosa consegnare alla commissione d'esame
 
 Come prova del vostro lavoro viene chiesta una copia di quanto avete prodotto in modo da poterla conservare in Accademia.
 
@@ -74,7 +74,7 @@ Per ottenere lo ZIP del progetto potete fare riferimento a GitHub:
 
 A titolo di esempio riporto la posizione del pulsante "Code" e del menù che appare dopo averlo premuto sul progetto CorsoWebDesign, chiaramente ognuno dovrà farlo sul proprio progetto:
 
-![Genera PDF](img/download.png)
+![Posizione del pulsante Code e del menù Download ZIP](img/download.png)
 
 ## Attribuzione del materiale
 

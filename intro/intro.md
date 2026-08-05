@@ -118,7 +118,7 @@ Verranno inoltre trattati argomenti pratici moderni:
   * Utilizzo di GitHub
   * Utilizzo di Netlify/Vercel
   * Utilizzo di Visual Studio Code
-  * Provider JamStack
+  * Altri provider di hosting per siti statici
 * Ottimizzazione siti web
   * Tecniche SEO
   * Miglioramento prestazioni
@@ -140,6 +140,7 @@ Verranno date le nozioni per poter produrre da zero un sito web dinamico.
 Il sito web <https://www.w3schools.com> fornisce tutti i tutorial che verranno usati per imparare la parte teorica legata a HTML, CSS e Javascript
 
 Il sito è disponibile anche in modalità offline a questo indirizzo <https://github.com/Ja7ad/W3Schools>
+_Nota: la copia offline non è più aggiornata dal 2023, per i contenuti più recenti fare riferimento al sito ufficiale_
 
 ---
 
@@ -161,7 +162,7 @@ _Ci aiuterà a provare tutto quello che verrà spiegato nel corso_
 <https://github.com> - The complete developer platform to build, scale, and deliver secure software.
 _Ci aiuterà a salvare, verificare, mantenere traccia delle modifiche del nostro progetto_
 
-<https://netlify.app> - The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web
+<https://www.netlify.com> - The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web
 _Ci servirà per pubblicare i nostri lavori online_
 
 <https://vercel.com> - Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.
@@ -243,7 +244,7 @@ Il materiale deve essere consegnato in forma digitale in modo possa essere conse
 
 ## Disclaimer
 
-L'autore ha generato questo testo in parte con GPT, il modello di generazione del linguaggio su larga scala di OpenAI.
+L'autore ha generato questo testo in parte con l'ausilio di strumenti di intelligenza artificiale generativa.
 
 Dopo aver generato la bozza del testo, l'autore ha modificato e rivisto il contenuto e si assume la responsabilità di questa pubblicazione.
 
